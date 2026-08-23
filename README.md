@@ -7,6 +7,15 @@ Modern-MoE is a research-oriented pure-PyTorch decoder-only language-model proje
 
 The public repository contains code, configuration templates, a small self-contained dictionary example, and general documentation. Full training datasets, tokenized binaries, model weights, W&B runs, local artifacts, runbooks, and TOPD/OPD workflows are intentionally excluded.
 
+### Main capabilities
+
+- Decoder-only Transformer/MoE architecture;
+- GQA, RoPE, RMSNorm, and sparse MoE;
+- Pretraining, supervised fine-tuning (SFT), and direct preference optimization (DPO);
+- Packed token-binary data pipeline;
+- KV cache, incremental generation, and inference performance profiling;
+- Checkpoint resumption, best/latest management, and model-behavior probing.
+
 ### Layout
 
 ```text
