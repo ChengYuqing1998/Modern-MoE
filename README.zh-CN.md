@@ -157,6 +157,21 @@ policy，同时把同一个 SFT checkpoint 复制为冻结的 reference。新的
 不能把之前的 DPO checkpoint 当作 reference。DPO 续训时，只有 policy 从
 DPO checkpoint 恢复，reference 始终保持最初的 SFT 权重不变。
 
+## 预训练性能参考
+
+在单张 NVIDIA RTX 4090、501.7M 参数 packed-Liger 模型、BF16、固定
+`2 × 2048` 训练 microbatch 条件下，已有记录显示：
+
+- 优化后的预训练路径约为 **51.5 ms / microbatch**；
+- 单独的 CCE forward/backward CUDA Graph benchmark 的 reserved 显存约为
+  **3.61 GiB**；
+- 包含梯度累积和 fused AdamW 的完整训练测试，峰值显存约为 **15.81 GiB**。
+
+这些是参考测量，不是所有机器上的保证值。单独 kernel benchmark 的显存不能
+代表完整训练显存；optimizer 状态、梯度累积、CUDA allocator、CUDA Graph 和
+具体模型实现都会影响最终峰值。因此不建议简单把该配置标成固定的“10GB
+显存占用”。
+
 ## 预训练
 
 准备 tokenized binary 后，修改配置中的数据路径；仓库示例配置已经默认指向：

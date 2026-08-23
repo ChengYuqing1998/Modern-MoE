@@ -109,6 +109,22 @@ reference model. A fresh DPO run must not use an earlier DPO checkpoint as its
 reference. When resuming DPO, only the policy resumes from the DPO checkpoint;
 the reference remains fixed at the original SFT weights.
 
+### Reference training performance
+
+Recorded on a single NVIDIA RTX 4090 with the 501.7M-parameter packed-Liger
+model, BF16, and a fixed `2 × 2048` training microbatch:
+
+- the optimized pretraining path is approximately **51.5 ms per microbatch**;
+- the isolated CCE forward/backward CUDA-graph benchmark reported about
+  **3.61 GiB reserved** for the microbatch kernel;
+- a complete training run including gradient accumulation and fused AdamW
+  reached about **15.81 GiB peak** in the recorded test.
+
+These are reference measurements rather than hardware guarantees. Do not
+interpret the isolated kernel benchmark as the total training memory footprint:
+optimizer state, gradient accumulation, allocator behavior, CUDA Graphs, and
+the selected model implementation all affect the final peak.
+
 ### Training
 
 Pretraining:
