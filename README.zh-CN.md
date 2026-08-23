@@ -14,7 +14,7 @@ Modern-MoE 是一个面向模型结构、训练流程、推理和表示分析的
 - KV cache、增量生成和推理性能分析；
 - checkpoint 续训、best/latest 管理和模型行为探查。
 
-本仓库只发布代码、配置模板、测试和通用文档。训练数据、数据来源、tokenized binary、模型权重、W&B 记录、实验产物以及 TOPD/OPD 流程均不发布。
+本仓库发布代码、配置模板、一个小型自包含的 phase-1 字典示例数据和通用文档。完整训练数据、tokenized binary、模型权重、W&B 记录、实验产物以及 TOPD/OPD 流程不发布。
 
 ## 目录结构
 
@@ -30,7 +30,7 @@ tokenizer/        本地 tokenizer 文件（使用前请确认许可证）
 
 以下内容不随仓库提供：
 
-- `data/` 下的原始语料、JSONL、parquet 和 tokenized binary；
+- 完整数据集及其来源文件；仓库只提供 `examples/phase1_dictionary/` 下的小型示例；
 - `checkpoints/` 下的预训练、SFT、DPO 和 RL 权重；
 - 本地日志、profiling 文件、W&B 运行目录和缓存；
 - 训练 runbook、个人实验记录和机器绝对路径；
@@ -63,7 +63,7 @@ python -m scripts.inspect_tokenizer --tokenizer tokenizer/qwen3_moe
 
 ## 数据接口
 
-训练入口默认直接读取已经 tokenize 好的二进制文件，不会在训练过程中读取原始语料或重新 tokenize。数据不包含在本仓库中。
+训练入口默认直接读取已经 tokenize 好的二进制文件，不会在训练过程中读取原始语料或重新 tokenize。仓库提供一个小型字典示例，使用前需要先执行 tokenize。
 
 ### 预训练
 
@@ -78,10 +78,23 @@ python -m scripts.inspect_tokenizer --tokenizer tokenizer/qwen3_moe
 ```
 
 ```yaml
-data_dir: /path/to/tokenized_pretraining_data
+data_dir: examples/phase1_dictionary/tokenized_qwen3_ctx2048
 dataset_format: pretraining
 sequence_length: 2048
 ```
+
+对仓库内的 phase-1 字典示例执行 tokenize：
+
+```bash
+python -u -m scripts.tokenize_corpus \
+  --config configs/nanogptmoe_v2_500m_liger.yaml \
+  --input-dir examples/phase1_dictionary/raw \
+  --output-dir examples/phase1_dictionary/tokenized_qwen3_ctx2048 \
+  --context-length 2048
+```
+
+命令会生成 `train.bin`、`validation.bin`、对应的 `*.sample_idx.npy` 和
+`metadata.json`。生成的 tokenized 文件属于本地产物，不会提交到仓库。
 
 `.bin` 保存 packed token IDs，`*.sample_idx.npy` 保存固定长度样本的起始位置。长度为 `T` 时：
 
@@ -125,11 +138,11 @@ DPO 数据集不提交到仓库，公开 README 也不固定具体数据来源�
 
 ## 预训练
 
-准备 tokenized binary 后，修改配置中的外部路径：
+准备 tokenized binary 后，修改配置中的数据路径；仓库示例配置已经默认指向：
 
 ```yaml
 model_config: configs/nanogptmoe_v2_500m_liger.yaml
-data_dir: /path/to/tokenized_pretraining_data
+data_dir: examples/phase1_dictionary/tokenized_qwen3_ctx2048
 dataset_format: pretraining
 checkpoint_root: /path/to/checkpoints
 ```
@@ -140,6 +153,8 @@ checkpoint_root: /path/to/checkpoints
 python -u -m scripts.train \
   --config configs/examples/train_pretraining.yaml
 ```
+
+这是一个用于验证数据管线和训练入口的极小示例，不代表正式预训练规模。
 
 从已有模型权重初始化时使用：
 
@@ -255,5 +270,4 @@ Qwen3 tokenizer，并按照 Apache License 2.0 再分发；其归属说明见该
 
 第三方代码和数据集仍分别受各自许可证或使用条款约束。本仓库不授予任何外部
 数据集或模型权重的再分发权。
-
 

@@ -1,0 +1,520 @@
+abacus n. A device with sliding beads used for counting and calculation.
+<|endoftext|>
+abandon v. To leave completely; to give up or stop supporting something.
+<|endoftext|>
+ability n. The power, skill, or opportunity to do something.
+<|endoftext|>
+accurate adj. Correct in every detail; free from error.
+<|endoftext|>
+adapt v. To change something so that it works better in a new situation.
+<|endoftext|>
+algorithm n. A clear sequence of steps for solving a problem or completing a task.
+<|endoftext|>
+analysis n. A careful examination of something in order to understand it.
+<|endoftext|>
+attention n. Careful notice given to a person, thing, or process.
+<|endoftext|>
+稠密 adj. 分布较为集中，不显得稀疏。
+<|endoftext|>
+词典 n. 收集词语并说明其读音、意义、用法或来源的工具书。
+<|endoftext|>
+定义 n. 对一个词语、概念或对象的含义作出明确说明。
+<|endoftext|>
+训练 n. 通过有计划的练习使能力、知识或行为得到提高。
+<|endoftext|>
+模型 n. 对现实对象、过程或系统进行抽象表示的结构。
+<|endoftext|>
+路由 n. 在多个可选路径中选择数据或任务处理路径的过程。
+<|endoftext|>
+专家 n. 在某一领域具有较多知识、经验或技能的人或模块。
+<|endoftext|>
+验证 n. 通过检查或实验确认结果、方法或结论是否可靠。
+<|endoftext|>
+vector n. A quantity that has both magnitude and direction.
+<|endoftext|>
+parameter n. A value that controls the behavior of a model or procedure.
+<|endoftext|>
+represent v. To describe, show, or stand for something in another form.
+<|endoftext|>
+sequence n. An ordered series of related items or events.
+<|endoftext|>
+dictionary_entry_001 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_002 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_003 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_004 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_005 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_006 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_007 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_008 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_009 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_010 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_011 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_012 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_013 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_014 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_015 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_016 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_017 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_018 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_019 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_020 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_021 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_022 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_023 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_024 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_025 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_026 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_027 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_028 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_029 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_030 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_031 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_032 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_033 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_034 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_035 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_036 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_037 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_038 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_039 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_040 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_041 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_042 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_043 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_044 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_045 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_046 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_047 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_048 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_049 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_050 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_051 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_052 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_053 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_054 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_055 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_056 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_057 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_058 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_059 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_060 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_061 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_062 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_063 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_064 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_065 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_066 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_067 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_068 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_069 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_070 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_071 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_072 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_073 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_074 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_075 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_076 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_077 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_078 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_079 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_080 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_081 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_082 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_083 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_084 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_085 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_086 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_087 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_088 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_089 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_090 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_091 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_092 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_093 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_094 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_095 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_096 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_097 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_098 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_099 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_100 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_101 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_102 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_103 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_104 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_105 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_106 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_107 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_108 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_109 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_110 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_111 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_112 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_113 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_114 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_115 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_116 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_117 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_118 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_119 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_120 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_121 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_122 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_123 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_124 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_125 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_126 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_127 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_128 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_129 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_130 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_131 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_132 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_133 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_134 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_135 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_136 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_137 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_138 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_139 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_140 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_141 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_142 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_143 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_144 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_145 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_146 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_147 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_148 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_149 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_150 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_151 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_152 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_153 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_154 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_155 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_156 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_157 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_158 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_159 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_160 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_161 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_162 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_163 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_164 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_165 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_166 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_167 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_168 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_169 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_170 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_171 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_172 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_173 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_174 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_175 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_176 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_177 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_178 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_179 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_180 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_181 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_182 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_183 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_184 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_185 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_186 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_187 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_188 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_189 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_190 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_191 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_192 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_193 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_194 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_195 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_196 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_197 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_198 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_199 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_200 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_201 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_202 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_203 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_204 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_205 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_206 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_207 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_208 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_209 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_210 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_211 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_212 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_213 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_214 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_215 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_216 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_217 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_218 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_219 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_220 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_221 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_222 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_223 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_224 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_225 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_226 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_227 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_228 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_229 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_230 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_231 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_232 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_233 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_234 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_235 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_236 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_237 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_238 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_239 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>
+dictionary_entry_240 n. This example entry describes a reusable concept for phase one language model training.
+<|endoftext|>

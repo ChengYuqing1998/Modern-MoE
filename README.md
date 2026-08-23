@@ -5,7 +5,7 @@
 
 Modern-MoE is a research-oriented pure-PyTorch decoder-only language-model project focused on architecture, training workflows, inference, and representation analysis.
 
-The public repository contains code, configuration templates, tests, and general documentation only. Training datasets, dataset provenance, tokenized binaries, model weights, W&B runs, local artifacts, runbooks, and TOPD/OPD workflows are intentionally excluded.
+The public repository contains code, configuration templates, a small self-contained phase-1 dictionary example, and general documentation. Full training datasets, tokenized binaries, model weights, W&B runs, local artifacts, runbooks, and TOPD/OPD workflows are intentionally excluded.
 
 ### Layout
 
@@ -31,7 +31,9 @@ Use Python 3.12 and a PyTorch/CUDA build compatible with the target GPU. Fused-k
 
 ### Data interface
 
-Training data is not distributed. The training entry points consume already-tokenized binaries directly.
+The repository includes a small dictionary-style phase-1 example under
+`examples/phase1_dictionary/raw/`. The training entry points consume
+already-tokenized binaries directly; the raw example must be tokenized first.
 
 Pretraining requires:
 
@@ -43,10 +45,24 @@ validation.sample_idx.npy
 ```
 
 ```yaml
-data_dir: /path/to/tokenized_pretraining_data
+data_dir: examples/phase1_dictionary/tokenized_qwen3_ctx2048
 dataset_format: pretraining
 sequence_length: 2048
 ```
+
+Tokenize the included example with the repository tokenizer:
+
+```bash
+python -u -m scripts.tokenize_corpus \
+  --config configs/nanogptmoe_v2_500m_liger.yaml \
+  --input-dir examples/phase1_dictionary/raw \
+  --output-dir examples/phase1_dictionary/tokenized_qwen3_ctx2048 \
+  --context-length 2048
+```
+
+The command creates `train.bin`, `validation.bin`, the corresponding
+`*.sample_idx.npy` files, and metadata in the output directory. The generated
+tokenized files are local artifacts and are not committed.
 
 SFT requires:
 
@@ -96,7 +112,9 @@ python -u -m scripts.train_dpo \
   --config configs/examples/train_dpo.yaml
 ```
 
-Replace all dataset, checkpoint, and output paths before running an experiment. Keep weights and dataset caches outside the repository.
+For a quick phase-1 smoke test, tokenize the example first and then run the
+pretraining command shown below. Replace checkpoint and output paths before a
+real experiment. Keep full datasets, weights, and caches outside the repository.
 
 ### Inference
 
@@ -129,4 +147,3 @@ attribution.
 Third-party code and datasets remain subject to their respective licenses and
 terms. This repository does not grant redistribution rights for external data
 or model weights.
-

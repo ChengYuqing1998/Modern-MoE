@@ -56,10 +56,14 @@ scripts/*
 !scripts/train_sft.py
 !scripts/train_dpo.py
 !scripts/generate.py
+!scripts/tokenize_corpus.py
 !scripts/convert_checkpoint_to_packed_liger.py
 !scripts/convert_checkpoint_to_packed_scattermoe.py
 !scripts/convert_native_to_torch_dist.py
 !scripts/rebuild_native_from_dcp.py
+
+# Generated tokenized files for the public phase-1 example
+examples/phase1_dictionary/tokenized_qwen3_ctx2048/
 
 # Optional model family excluded from the public release
 nanok3/
