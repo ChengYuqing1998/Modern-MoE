@@ -47,7 +47,7 @@ configs/*
 !configs/nanogptmoe_v2_500m_liger.yaml
 
 # Local script inventory; kept for development, not published
-scripts/README.md
+scripts/README.txt
 
 # Optional model family excluded from the public release
 nanok3/
