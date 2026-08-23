@@ -258,13 +258,31 @@ DPO checkpoint、reference cache、数据集 cache 都应放在仓库之外。
 python -u -m scripts.generate \
   --checkpoint /path/to/checkpoint.pt \
   --prompt "请解释混合专家模型的工作原理" \
+  --chat-template \
   --mode cache \
   --max-new-tokens 128 \
   --temperature 0.7 \
-  --top-p 0.9
+  --top-p 0.9 \
+  --top-k 50 \
+  --repetition-penalty 1.05 \
+  --stream
 ```
 
-`no_cache` 用于正确性基线，`cache` 用于增量生成，`mtp` 用于 MTP 提议/校正实验，`all` 用于多路径对比。
+推理选项：
+
+- `--chat-template`：使用 Qwen3 ChatML 模板渲染 prompt，并在 `<|im_end|>` 停止；
+- 不加 `--chat-template`：使用原始续写模式；
+- `--mode cache`：标准增量推理；
+- `--mode no_cache`：完整前缀重算，仅作为正确性基线；
+- `--max-new-tokens`：最大生成 token 数；
+- `--temperature`、`--top-p`、`--top-k`：采样控制；
+- `--repetition-penalty`、`--no-repeat-ngram-size`：重复控制；
+- `--stream`：流式打印生成结果；
+- 可选性能开关：`--cuda-graph-decode`、`--vllm-fused-experts`、
+  `--fused-inference-router`、`--fused-sampling`、`--flashinfer-sampling`。
+
+公开 README 只保留 `cache` 和 `no_cache` 两条推理路径说明，MTP 相关推理
+设置不在这里展开。
 
 ## Checkpoint 管理
 

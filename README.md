@@ -168,11 +168,31 @@ real experiment. Keep full datasets, weights, and caches outside the repository.
 python -u -m scripts.generate \
   --checkpoint /path/to/checkpoint.pt \
   --prompt "Explain how a mixture-of-experts model works" \
+  --chat-template \
   --mode cache \
   --max-new-tokens 128 \
   --temperature 0.7 \
-  --top-p 0.9
+  --top-p 0.9 \
+  --top-k 50 \
+  --repetition-penalty 1.05 \
+  --stream
 ```
+
+Inference options:
+
+- `--chat-template`: render the prompt with the Qwen3 ChatML template and stop at `<|im_end|>`;
+- omit `--chat-template`: use raw continuation mode;
+- `--mode cache`: normal incremental generation;
+- `--mode no_cache`: correctness baseline;
+- `--max-new-tokens`: maximum number of generated tokens;
+- `--temperature`, `--top-p`, `--top-k`: sampling controls;
+- `--repetition-penalty`, `--no-repeat-ngram-size`: repetition controls;
+- `--stream`: print generated tokens incrementally;
+- optional backend flags: `--cuda-graph-decode`, `--vllm-fused-experts`,
+  `--fused-inference-router`, `--fused-sampling`, and `--flashinfer-sampling`.
+
+The public inference path is `cache` or `no_cache`. MTP-related inference
+settings are intentionally omitted from this README.
 
 ### Checkpoint policy
 

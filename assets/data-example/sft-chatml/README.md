@@ -67,8 +67,6 @@ Useful choices:
 - omit `--chat-template`: run raw continuation mode;
 - `--mode cache`: normal incremental generation;
 - `--mode no_cache`: correctness baseline;
-- `--mode mtp`: speculative MTP path;
-- `--mode all`: compare all supported paths;
 - `--temperature`, `--top-p`, `--top-k`: sampling controls;
 - `--repetition-penalty`, `--no-repeat-ngram-size`: repetition controls;
 - `--stream`: stream decoded text as it is generated.
@@ -77,6 +75,9 @@ Performance-related optional flags are `--cuda-graph-decode`,
 `--vllm-fused-experts`, `--fused-inference-router`, `--fused-sampling`, and
 `--flashinfer-sampling`. These are environment- and backend-dependent; use
 them only after the ordinary `cache` path is working.
+
+This example documents only the ordinary `cache` and `no_cache` paths; MTP
+settings are intentionally omitted.
 
 The current command-line interface does not expose a separate
 `--enable-thinking/--disable-thinking` switch. With `--chat-template`, the
