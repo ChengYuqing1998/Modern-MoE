@@ -60,7 +60,6 @@ scripts/*
 !scripts/convert_checkpoint_to_packed_scattermoe.py
 !scripts/convert_native_to_torch_dist.py
 !scripts/rebuild_native_from_dcp.py
-!scripts/export_native_checkpoint.py
 
 # Optional model family excluded from the public release
 nanok3/
