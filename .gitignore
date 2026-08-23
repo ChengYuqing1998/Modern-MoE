@@ -49,6 +49,19 @@ configs/*
 # Local script inventory; kept for development, not published
 scripts/README.txt
 
+# Keep only the public training, inference, and checkpoint conversion entrypoints.
+# All other scripts remain available locally but are not published.
+scripts/*
+!scripts/train.py
+!scripts/train_sft.py
+!scripts/train_dpo.py
+!scripts/generate.py
+!scripts/convert_checkpoint_to_packed_liger.py
+!scripts/convert_checkpoint_to_packed_scattermoe.py
+!scripts/convert_native_to_torch_dist.py
+!scripts/rebuild_native_from_dcp.py
+!scripts/export_native_checkpoint.py
+
 # Optional model family excluded from the public release
 nanok3/
 
