@@ -79,6 +79,9 @@ dataset_format: sft
 training_entrypoint: scripts/train_sft.py
 ```
 
+A small raw Qwen ChatML/Thinking format example is available at
+[`assets/data-example/sft-chatml/`](assets/data-example/sft-chatml/).
+
 DPO receives external preference pairs through `dataset`. The native loader
 expects the fields `question`, `chosen`, and `rejected`:
 

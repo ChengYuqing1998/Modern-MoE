@@ -1,0 +1,3 @@
+{"messages":[{"role":"user","content":"什么是梯度下降？"},{"role":"assistant","content":"<think>需要先说明它是优化算法，再给出直观解释和更新公式。</think>梯度下降是一种优化算法。它沿着损失函数下降最快的方向逐步调整参数，从而找到较小的损失值。"}],"category":"math_code"}
+{"messages":[{"role":"user","content":"如何改善团队内部沟通？"},{"role":"assistant","content":"可以从明确目标、统一信息渠道、定期同步进度和建立反馈机制几方面入手。重要决策应留下可检索的书面记录。"}],"category":"chinese_chat"}
+{"messages":[{"role":"user","content":"为什么需要验证集？"},{"role":"assistant","content":"验证集用于估计模型在未参与参数更新的数据上的表现，帮助选择超参数、监控过拟合，并辅助决定何时停止训练。"}],"category":"chinese_instruction"}

@@ -124,6 +124,9 @@ sequence_length: 2048
 
 labels 文件负责指定监督位置；实际对话内容不放入仓库。
 
+仓库提供少量 Qwen ChatML/Thinking 原始格式示例，见
+[`assets/data-example/sft-chatml/`](assets/data-example/sft-chatml/)。
+
 ### DPO
 
 DPO 使用偏好对，通过 YAML 或命令行的 `dataset` 字段加载外部数据。原生
