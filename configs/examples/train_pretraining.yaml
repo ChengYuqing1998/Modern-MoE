@@ -1,6 +1,6 @@
 # Public example. Replace all external paths before running.
 model_config: configs/nanogptmoe_v2_500m_liger.yaml
-data_dir: assets/data-example/tokenized_qwen3_ctx2048
+data_dir: assets/data-example/pretrain/tokenized_qwen3_ctx2048
 dataset_format: pretraining
 checkpoint_root: /path/to/checkpoints
 resume_training: false

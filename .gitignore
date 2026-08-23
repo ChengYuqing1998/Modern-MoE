@@ -62,8 +62,8 @@ scripts/*
 !scripts/convert_native_to_torch_dist.py
 !scripts/rebuild_native_from_dcp.py
 
-# Generated tokenized files for the public phase-1 example
-assets/data-example/tokenized_qwen3_ctx2048/
+# Generated tokenized files for the public pretraining example
+assets/data-example/pretrain/tokenized_qwen3_ctx2048/
 assets/data-example/sft-chatml/tokenized/
 
 # Optional model family excluded from the public release

@@ -5,7 +5,7 @@
 
 Modern-MoE is a research-oriented pure-PyTorch decoder-only language-model project focused on architecture, training workflows, inference, and representation analysis.
 
-The public repository contains code, configuration templates, a small self-contained phase-1 dictionary example, and general documentation. Full training datasets, tokenized binaries, model weights, W&B runs, local artifacts, runbooks, and TOPD/OPD workflows are intentionally excluded.
+The public repository contains code, configuration templates, a small self-contained dictionary example, and general documentation. Full training datasets, tokenized binaries, model weights, W&B runs, local artifacts, runbooks, and TOPD/OPD workflows are intentionally excluded.
 
 ### Layout
 
@@ -31,8 +31,8 @@ Use Python 3.12 and a PyTorch/CUDA build compatible with the target GPU. Fused-k
 
 ### Data interface
 
-The repository includes a small dictionary-style phase-1 example under
-`assets/data-example/raw/`. The training entry points consume
+The repository includes a small dictionary-style pretraining example under
+`assets/data-example/pretrain/raw/`. The training entry points consume
 already-tokenized binaries directly; the raw example must be tokenized first.
 
 Pretraining requires:
@@ -45,7 +45,7 @@ validation.sample_idx.npy
 ```
 
 ```yaml
-data_dir: assets/data-example/tokenized_qwen3_ctx2048
+data_dir: assets/data-example/pretrain/tokenized_qwen3_ctx2048
 dataset_format: pretraining
 sequence_length: 2048
 ```
@@ -55,8 +55,8 @@ Tokenize the included example with the repository tokenizer:
 ```bash
 python -u -m scripts.tokenize_corpus \
   --config configs/nanogptmoe_v2_500m_liger.yaml \
-  --input-dir assets/data-example/raw \
-  --output-dir assets/data-example/tokenized_qwen3_ctx2048 \
+  --input-dir assets/data-example/pretrain/raw \
+  --output-dir assets/data-example/pretrain/tokenized_qwen3_ctx2048 \
   --context-length 2048
 ```
 
@@ -98,7 +98,7 @@ The dataset and its concrete source are not committed. DPO applies ChatML render
 The intended order is:
 
 ```text
-phase-1 pretraining → pretrained checkpoint → SFT → SFT checkpoint
+pretraining → pretrained checkpoint → SFT → SFT checkpoint
                                            → DPO policy + frozen SFT reference
                                            → DPO checkpoint
 ```
@@ -154,11 +154,11 @@ which provides about 60k English math, science, and knowledge preference pairs
 with the exact `question`/`chosen`/`rejected` columns expected by
 `scripts/train_dpo.py`. No column adapter is required. The chosen and rejected
 answers are ordinary technical responses with a visible quality difference,
-which makes the DPO behavior easy to inspect without using offensive data. The
-example configuration uses `max_samples: 64`; set it to `0` only when
+which makes the DPO behavior easy to inspect. The example configuration uses
+`max_samples: 64`; set it to `0` only when
 intentionally processing the full dataset.
 
-For a quick phase-1 smoke test, tokenize the example first and then run the
+For a quick pretraining smoke test, tokenize the example first and then run the
 pretraining command shown below. Replace checkpoint and output paths before a
 real experiment. Keep full datasets, weights, and caches outside the repository.
 

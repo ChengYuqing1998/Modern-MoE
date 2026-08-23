@@ -1,7 +1,7 @@
-# Phase-1 Dictionary Example
+# Dictionary Pretraining Example
 
 This directory contains a small excerpt of real dictionary entries from the
-project's local phase-1 dictionary corpus for testing the pretraining data
+project's local dictionary corpus for testing the pretraining data
 pipeline. It is not the full training corpus. The raw files use
 `<|endoftext|>` as the document separator expected by
 `scripts/tokenize_corpus.py`.
@@ -14,8 +14,8 @@ Run from the repository root:
 ```bash
 python -u -m scripts.tokenize_corpus \
   --config configs/nanogptmoe_v2_500m_liger.yaml \
-  --input-dir assets/data-example/raw \
-  --output-dir assets/data-example/tokenized_qwen3_ctx2048 \
+  --input-dir assets/data-example/pretrain/raw \
+  --output-dir assets/data-example/pretrain/tokenized_qwen3_ctx2048 \
   --context-length 2048
 ```
 

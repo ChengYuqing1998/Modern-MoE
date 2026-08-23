@@ -14,7 +14,7 @@ Modern-MoE 是一个面向模型结构、训练流程、推理和表示分析的
 - KV cache、增量生成和推理性能分析；
 - checkpoint 续训、best/latest 管理和模型行为探查。
 
-本仓库发布代码、配置模板、一个小型自包含的 phase-1 字典示例数据和通用文档。完整训练数据、tokenized binary、模型权重、W&B 记录、实验产物以及 TOPD/OPD 流程不发布。
+本仓库发布代码、配置模板、一个小型自包含的字典预训练示例数据和通用文档。完整训练数据、tokenized binary、模型权重、W&B 记录、实验产物以及 TOPD/OPD 流程不发布。
 
 ## 目录结构
 
@@ -78,18 +78,18 @@ python -m scripts.inspect_tokenizer --tokenizer tokenizer/qwen3_moe
 ```
 
 ```yaml
-data_dir: assets/data-example/tokenized_qwen3_ctx2048
+data_dir: assets/data-example/pretrain/tokenized_qwen3_ctx2048
 dataset_format: pretraining
 sequence_length: 2048
 ```
 
-对仓库内的 phase-1 字典示例执行 tokenize：
+对仓库内的字典预训练示例执行 tokenize：
 
 ```bash
 python -u -m scripts.tokenize_corpus \
   --config configs/nanogptmoe_v2_500m_liger.yaml \
-  --input-dir assets/data-example/raw \
-  --output-dir assets/data-example/tokenized_qwen3_ctx2048 \
+  --input-dir assets/data-example/pretrain/raw \
+  --output-dir assets/data-example/pretrain/tokenized_qwen3_ctx2048 \
   --context-length 2048
 ```
 
@@ -147,7 +147,7 @@ policy/reference completion log-prob，再计算 DPO loss。
 项目推荐的顺序是：
 
 ```text
-phase-1 预训练 → 预训练 checkpoint → SFT → SFT checkpoint
+预训练 → 预训练 checkpoint → SFT → SFT checkpoint
                                       → DPO policy + 固定的 SFT reference
                                       → DPO checkpoint
 ```
@@ -178,7 +178,7 @@ DPO checkpoint 恢复，reference 始终保持最初的 SFT 权重不变。
 
 ```yaml
 model_config: configs/nanogptmoe_v2_500m_liger.yaml
-data_dir: assets/data-example/tokenized_qwen3_ctx2048
+data_dir: assets/data-example/pretrain/tokenized_qwen3_ctx2048
 dataset_format: pretraining
 checkpoint_root: /path/to/checkpoints
 ```
@@ -247,8 +247,8 @@ python -u -m scripts.train_dpo \
 该数据集约有 6 万条英文数学、科学和知识类偏好对，字段正好是
 `question`、`chosen`、`rejected`，与 `scripts/train_dpo.py` 的读取逻辑一致，
 不需要额外改列名或适配器。chosen/rejected 都是正常的技术回答，但质量差异
-比较明显，适合公开演示 DPO，不需要使用脏话数据。示例配置默认只取
-`max_samples: 64`；确认资源充足并希望跑完整数据集时再改为 `0`。
+适合公开演示 DPO。示例配置默认只取 `max_samples: 64`；确认资源充足并
+希望跑完整数据集时再改为 `0`。
 
 DPO checkpoint、reference cache、数据集 cache 都应放在仓库之外。
 
