@@ -1,10 +1,11 @@
-# Public example. The preference dataset and checkpoint are external.
+# Public example. The checkpoint is external; this dataset matches the native
+# loader fields question/chosen/rejected directly.
 checkpoint: /path/to/sft_checkpoint.pt
-dataset: <external-preference-dataset>
+dataset: CultriX/dpo-merged
 split: train
 checkpoint_root: /path/to/checkpoints
 
-max_samples: 0
+max_samples: 64
 max_length: 1024
 epochs: 1
 micro_batch_size: 4

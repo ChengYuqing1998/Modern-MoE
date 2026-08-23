@@ -79,15 +79,32 @@ dataset_format: sft
 training_entrypoint: scripts/train_sft.py
 ```
 
-DPO receives external chosen/rejected preference pairs through `dataset`:
+DPO receives external preference pairs through `dataset`. The native loader
+expects the fields `question`, `chosen`, and `rejected`:
 
 ```yaml
-dataset: <external-preference-dataset>
+dataset: CultriX/dpo-merged
 split: train
 max_length: 1024
 ```
 
 The dataset and its concrete source are not committed. DPO applies ChatML rendering, separate tokenization, policy/reference log-probability computation, and the DPO loss at runtime.
+
+### Training order and checkpoint flow
+
+The intended order is:
+
+```text
+phase-1 pretraining → pretrained checkpoint → SFT → SFT checkpoint
+                                           → DPO policy + frozen SFT reference
+                                           → DPO checkpoint
+```
+
+SFT is initialized from the pretrained checkpoint. DPO must be initialized
+from the SFT checkpoint; that same SFT checkpoint is copied as the frozen
+reference model. A fresh DPO run must not use an earlier DPO checkpoint as its
+reference. When resuming DPO, only the policy resumes from the DPO checkpoint;
+the reference remains fixed at the original SFT weights.
 
 ### Training
 
@@ -111,6 +128,16 @@ DPO:
 python -u -m scripts.train_dpo \
   --config configs/examples/train_dpo.yaml
 ```
+
+The public example uses
+[`CultriX/dpo-merged`](https://huggingface.co/datasets/CultriX/dpo-merged),
+which provides about 60k English math, science, and knowledge preference pairs
+with the exact `question`/`chosen`/`rejected` columns expected by
+`scripts/train_dpo.py`. No column adapter is required. The chosen and rejected
+answers are ordinary technical responses with a visible quality difference,
+which makes the DPO behavior easy to inspect without using offensive data. The
+example configuration uses `max_samples: 64`; set it to `0` only when
+intentionally processing the full dataset.
 
 For a quick phase-1 smoke test, tokenize the example first and then run the
 pretraining command shown below. Replace checkpoint and output paths before a
@@ -146,4 +173,6 @@ attribution.
 
 Third-party code and datasets remain subject to their respective licenses and
 terms. This repository does not grant redistribution rights for external data
-or model weights.
+or model weights. The Hugging Face DPO dataset is downloaded at runtime and is
+not mirrored into this repository; review its dataset card and Apache-2.0 terms
+before use.

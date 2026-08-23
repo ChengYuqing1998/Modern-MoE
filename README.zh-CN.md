@@ -126,15 +126,33 @@ labels 文件负责指定监督位置；实际对话内容不放入仓库。
 
 ### DPO
 
-DPO 使用 chosen/rejected 偏好对，通过 YAML 或命令行的 `dataset` 字段加载外部数据：
+DPO 使用偏好对，通过 YAML 或命令行的 `dataset` 字段加载外部数据。原生
+读取逻辑要求字段为 `question`、`chosen`、`rejected`：
 
 ```yaml
-dataset: <external-preference-dataset>
+dataset: CultriX/dpo-merged
 split: train
 max_length: 1024
 ```
 
-DPO 数据集不提交到仓库，公开 README 也不固定具体数据来源。运行时由使用者提供可访问的数据集标识或本地适配层。DPO 会将 prompt、chosen 和 rejected 渲染为 ChatML，分别 tokenize，计算 policy/reference completion log-prob，再计算 DPO loss。
+DPO 数据集不提交到仓库。运行时由使用者提供可访问的数据集标识。DPO 会将
+`question`、`chosen` 和 `rejected` 渲染为 ChatML，分别 tokenize，计算
+policy/reference completion log-prob，再计算 DPO loss。
+
+## 训练顺序与 checkpoint 关系
+
+项目推荐的顺序是：
+
+```text
+phase-1 预训练 → 预训练 checkpoint → SFT → SFT checkpoint
+                                      → DPO policy + 固定的 SFT reference
+                                      → DPO checkpoint
+```
+
+SFT 使用预训练 checkpoint 初始化。DPO 必须使用 SFT checkpoint 初始化
+policy，同时把同一个 SFT checkpoint 复制为冻结的 reference。新的 DPO 训练
+不能把之前的 DPO checkpoint 当作 reference。DPO 续训时，只有 policy 从
+DPO checkpoint 恢复，reference 始终保持最初的 SFT 权重不变。
 
 ## 预训练
 
@@ -191,7 +209,7 @@ DPO 从 SFT checkpoint 初始化 policy，并固定 reference 模型。主干和
 
 ```yaml
 checkpoint: /path/to/sft_checkpoint.pt
-dataset: <external-preference-dataset>
+dataset: CultriX/dpo-merged
 split: train
 lr: 1.0e-4
 router_lr: 2.0e-5
@@ -205,6 +223,14 @@ max_checkpoints: 4
 python -u -m scripts.train_dpo \
   --config configs/examples/train_dpo.yaml
 ```
+
+公开示例使用 Hugging Face 数据集
+[`CultriX/dpo-merged`](https://huggingface.co/datasets/CultriX/dpo-merged)。
+该数据集约有 6 万条英文数学、科学和知识类偏好对，字段正好是
+`question`、`chosen`、`rejected`，与 `scripts/train_dpo.py` 的读取逻辑一致，
+不需要额外改列名或适配器。chosen/rejected 都是正常的技术回答，但质量差异
+比较明显，适合公开演示 DPO，不需要使用脏话数据。示例配置默认只取
+`max_samples: 64`；确认资源充足并希望跑完整数据集时再改为 `0`。
 
 DPO checkpoint、reference cache、数据集 cache 都应放在仓库之外。
 
