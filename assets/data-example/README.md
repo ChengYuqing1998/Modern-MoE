@@ -14,8 +14,8 @@ Run from the repository root:
 ```bash
 python -u -m scripts.tokenize_corpus \
   --config configs/nanogptmoe_v2_500m_liger.yaml \
-  --input-dir examples/phase1_dictionary/raw \
-  --output-dir examples/phase1_dictionary/tokenized_qwen3_ctx2048 \
+  --input-dir assets/data-example/raw \
+  --output-dir assets/data-example/tokenized_qwen3_ctx2048 \
   --context-length 2048
 ```
 

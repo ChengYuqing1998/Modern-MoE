@@ -32,7 +32,7 @@ Use Python 3.12 and a PyTorch/CUDA build compatible with the target GPU. Fused-k
 ### Data interface
 
 The repository includes a small dictionary-style phase-1 example under
-`examples/phase1_dictionary/raw/`. The training entry points consume
+`assets/data-example/raw/`. The training entry points consume
 already-tokenized binaries directly; the raw example must be tokenized first.
 
 Pretraining requires:
@@ -45,7 +45,7 @@ validation.sample_idx.npy
 ```
 
 ```yaml
-data_dir: examples/phase1_dictionary/tokenized_qwen3_ctx2048
+data_dir: assets/data-example/tokenized_qwen3_ctx2048
 dataset_format: pretraining
 sequence_length: 2048
 ```
@@ -55,8 +55,8 @@ Tokenize the included example with the repository tokenizer:
 ```bash
 python -u -m scripts.tokenize_corpus \
   --config configs/nanogptmoe_v2_500m_liger.yaml \
-  --input-dir examples/phase1_dictionary/raw \
-  --output-dir examples/phase1_dictionary/tokenized_qwen3_ctx2048 \
+  --input-dir assets/data-example/raw \
+  --output-dir assets/data-example/tokenized_qwen3_ctx2048 \
   --context-length 2048
 ```
 

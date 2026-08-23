@@ -30,7 +30,7 @@ tokenizer/        本地 tokenizer 文件（使用前请确认许可证）
 
 以下内容不随仓库提供：
 
-- 完整数据集及其来源文件；仓库只提供 `examples/phase1_dictionary/` 下的小型示例；
+- 完整数据集及其来源文件；仓库只提供 `assets/data-example/` 下的小型示例；
 - `checkpoints/` 下的预训练、SFT、DPO 和 RL 权重；
 - 本地日志、profiling 文件、W&B 运行目录和缓存；
 - 训练 runbook、个人实验记录和机器绝对路径；
@@ -78,7 +78,7 @@ python -m scripts.inspect_tokenizer --tokenizer tokenizer/qwen3_moe
 ```
 
 ```yaml
-data_dir: examples/phase1_dictionary/tokenized_qwen3_ctx2048
+data_dir: assets/data-example/tokenized_qwen3_ctx2048
 dataset_format: pretraining
 sequence_length: 2048
 ```
@@ -88,8 +88,8 @@ sequence_length: 2048
 ```bash
 python -u -m scripts.tokenize_corpus \
   --config configs/nanogptmoe_v2_500m_liger.yaml \
-  --input-dir examples/phase1_dictionary/raw \
-  --output-dir examples/phase1_dictionary/tokenized_qwen3_ctx2048 \
+  --input-dir assets/data-example/raw \
+  --output-dir assets/data-example/tokenized_qwen3_ctx2048 \
   --context-length 2048
 ```
 
@@ -142,7 +142,7 @@ DPO 数据集不提交到仓库，公开 README 也不固定具体数据来源�
 
 ```yaml
 model_config: configs/nanogptmoe_v2_500m_liger.yaml
-data_dir: examples/phase1_dictionary/tokenized_qwen3_ctx2048
+data_dir: assets/data-example/tokenized_qwen3_ctx2048
 dataset_format: pretraining
 checkpoint_root: /path/to/checkpoints
 ```
@@ -270,4 +270,3 @@ Qwen3 tokenizer，并按照 Apache License 2.0 再分发；其归属说明见该
 
 第三方代码和数据集仍分别受各自许可证或使用条款约束。本仓库不授予任何外部
 数据集或模型权重的再分发权。
-
