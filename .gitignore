@@ -41,6 +41,16 @@ MODERN_MOE_TRAINING_INFERENCE_RUNBOOK.txt
 configs/sparkle_wandb_direct.js
 configs/train_*.yaml
 configs/validation_monitor*.json
+configs/*
+!configs/examples/
+!configs/examples/**
+!configs/nanogptmoe_v2_500m_liger.yaml
+
+# Local script inventory; kept for development, not published
+scripts/README.md
+
+# Optional model family excluded from the public release
+nanok3/
 
 # TOPD/OPD and private post-training launchers (not part of the first public release)
 scripts/*topd*
