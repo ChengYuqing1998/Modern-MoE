@@ -1,9 +1,13 @@
 # Phase-1 Dictionary Example
 
-This directory contains a small, self-contained dictionary-style text sample for
-testing the phase-1 pretraining data pipeline. It is not the full training
-corpus. The raw files use `<|endoftext|>` as the document separator expected by
+This directory contains a small excerpt of real dictionary entries from the
+project's local phase-1 dictionary corpus for testing the pretraining data
+pipeline. It is not the full training corpus. The raw files use
+`<|endoftext|>` as the document separator expected by
 `scripts/tokenize_corpus.py`.
+
+The excerpt is provided as a dataset example. Check the upstream terms and
+licenses before redistributing a larger corpus or using additional source files.
 
 Run from the repository root:
 

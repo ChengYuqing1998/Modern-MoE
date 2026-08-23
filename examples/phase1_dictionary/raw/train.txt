@@ -1,520 +1,500 @@
-abacus n. A device with sliding beads used for counting and calculation.
+A- prefix (also an- before a vowel sound) not, without (amoral). [greek]
 <|endoftext|>
-abandon v. To leave completely; to give up or stop supporting something.
+Aa abbr. 1 automobile association. 2 alcoholics anonymous. 3 anti-aircraft.
 <|endoftext|>
-ability n. The power, skill, or opportunity to do something.
+Aardvark n. Mammal with a tubular snout and a long tongue, feeding on termites. [afrikaans]
 <|endoftext|>
-accurate adj. Correct in every detail; free from error.
+Ab- prefix off, away, from (abduct). [latin]
 <|endoftext|>
-adapt v. To change something so that it works better in a new situation.
+Aback adv. take aback surprise, disconcert. [old english: related to *a2]
 <|endoftext|>
-algorithm n. A clear sequence of steps for solving a problem or completing a task.
+Abacus n. (pl. -cuses) 1 frame with wires along which beads are slid for calculating. 2 archit. Flat slab on top of a capital. [latin from greek from hebrew]
 <|endoftext|>
-analysis n. A careful examination of something in order to understand it.
+Abaft naut. —adv. In the stern half of a ship. —prep. Nearer the stern than. [from *a2, -baft: see *aft]
 <|endoftext|>
-attention n. Careful notice given to a person, thing, or process.
+Abandon —v. 1 give up. 2 forsake, desert. 3 (often foll. By to; often refl.) Yield to a passion, another's control, etc. —n. Freedom from inhibitions. abandonment n. [french: related to *ad-, *ban]
 <|endoftext|>
-稠密 adj. 分布较为集中，不显得稀疏。
+Abandoned adj. 1 deserted, forsaken. 2 unrestrained, profligate.
 <|endoftext|>
-词典 n. 收集词语并说明其读音、意义、用法或来源的工具书。
+Abase v. (-sing) (also refl.) Humiliate, degrade. abasement n. [french: related to *ad-, *base2]
 <|endoftext|>
-定义 n. 对一个词语、概念或对象的含义作出明确说明。
+Abashed predic. Adj. Embarrassed, disconcerted. [french es- *ex-1, baïr astound]
 <|endoftext|>
-训练 n. 通过有计划的练习使能力、知识或行为得到提高。
+Abate v. (-ting) make or become less strong etc.; diminish. abatement n. [french abatre from latin batt(u)o beat]
 <|endoftext|>
-模型 n. 对现实对象、过程或系统进行抽象表示的结构。
+Abattoir n. Slaughterhouse. [french abatre fell, as *abate]
 <|endoftext|>
-路由 n. 在多个可选路径中选择数据或任务处理路径的过程。
+Abbacy n. (pl. -ies) office or jurisdiction of an abbot or abbess. [latin: related to *abbot]
 <|endoftext|>
-专家 n. 在某一领域具有较多知识、经验或技能的人或模块。
+Abbé n. (in france) abbot or priest. [french from latin: related to *abbot]
 <|endoftext|>
-验证 n. 通过检查或实验确认结果、方法或结论是否可靠。
+Abbess n. Head of a community of nuns.
 <|endoftext|>
-vector n. A quantity that has both magnitude and direction.
+Abbey n. (pl. -s) 1 building(s) occupied by a community of monks or nuns. 2 the community itself. 3 building that was once an abbey.
 <|endoftext|>
-parameter n. A value that controls the behavior of a model or procedure.
+Abbot n. Head of a community of monks. [old english from latin abbas]
 <|endoftext|>
-represent v. To describe, show, or stand for something in another form.
+Abbreviate v. (-ting) shorten, esp. Represent (a word etc.) By a part of it. abbreviation n. [latin: related to *brief]
 <|endoftext|>
-sequence n. An ordered series of related items or events.
+Abc n. 1 the alphabet. 2 rudiments of a subject. 3 alphabetical guide.
 <|endoftext|>
-dictionary_entry_001 n. This example entry describes a reusable concept for phase one language model training.
+Abdicate v. (-ting) 1 (usu. Absol.) Give up or renounce (the throne). 2 renounce (a duty, right, etc.). abdication n. [latin dico declare]
 <|endoftext|>
-dictionary_entry_002 n. This example entry describes a reusable concept for phase one language model training.
+Abdomen n. 1 the belly, including the stomach, bowels, etc. 2 the hinder part of an insect etc. abdominal adj. [latin]
 <|endoftext|>
-dictionary_entry_003 n. This example entry describes a reusable concept for phase one language model training.
+Abduct v. Carry off or kidnap illegally. abduction n. Abductor n. [latin duco lead]
 <|endoftext|>
-dictionary_entry_004 n. This example entry describes a reusable concept for phase one language model training.
+Abeam adv. At right angles to a ship's or an aircraft's length.
 <|endoftext|>
-dictionary_entry_005 n. This example entry describes a reusable concept for phase one language model training.
+Aberdeen angus n. Animal of a scottish breed of hornless black cattle. [aberdeen in scotland]
 <|endoftext|>
-dictionary_entry_006 n. This example entry describes a reusable concept for phase one language model training.
+Aberdonian —adj. Of aberdeen. —n. Native or citizen of aberdeen. [medieval latin]
 <|endoftext|>
-dictionary_entry_007 n. This example entry describes a reusable concept for phase one language model training.
+Aberrant adj. Deviating from what is normal or accepted. [latin: related to *err]
 <|endoftext|>
-dictionary_entry_008 n. This example entry describes a reusable concept for phase one language model training.
+Aberration n. 1 aberrant behaviour; moral or mental lapse. 2 biol. Deviation from a normal type. 3 distortion of an image because of a defect in a lens or mirror. 4 astron. Apparent displacement of a celestial body.
 <|endoftext|>
-dictionary_entry_009 n. This example entry describes a reusable concept for phase one language model training.
+Abet v. (-tt-) (usu. In aid and abet) encourage or assist (an offender or offence). [french: related to *ad-, *bait]
 <|endoftext|>
-dictionary_entry_010 n. This example entry describes a reusable concept for phase one language model training.
+Abeyance n. (usu. Prec. By in, into) temporary disuse. [french: related to *ad-, beer gape]
 <|endoftext|>
-dictionary_entry_011 n. This example entry describes a reusable concept for phase one language model training.
+Abhor v. (-rr-) detest; regard with disgust. [latin: related to *horror
 <|endoftext|>
-dictionary_entry_012 n. This example entry describes a reusable concept for phase one language model training.
+Abhorrence n. Disgust; detestation.
 <|endoftext|>
-dictionary_entry_013 n. This example entry describes a reusable concept for phase one language model training.
+Abhorrent adj. (often foll. By to) disgusting or hateful.
 <|endoftext|>
-dictionary_entry_014 n. This example entry describes a reusable concept for phase one language model training.
+Abide v. (-ding; past abided or rarely abode) 1 (usu. In neg.) Tolerate, endure (can't abide him). 2 (foll. By by) a act in accordance with (abide by the rules). B keep (a promise). 3 archaic remain, continue. [old english a- intensive prefix, *bide]
 <|endoftext|>
-dictionary_entry_015 n. This example entry describes a reusable concept for phase one language model training.
+Abiding adj. Enduring, permanent.
 <|endoftext|>
-dictionary_entry_016 n. This example entry describes a reusable concept for phase one language model training.
+Ability n. (pl. -ies) 1 (often foll. By to + infin.) Capacity or power. 2 cleverness, talent. [french: related to *able]
 <|endoftext|>
-dictionary_entry_017 n. This example entry describes a reusable concept for phase one language model training.
+-ability suffix forming nouns of quality from, or corresponding to, adjectives in -able.
 <|endoftext|>
-dictionary_entry_018 n. This example entry describes a reusable concept for phase one language model training.
+Ab initio adv. From the beginning. [latin]
 <|endoftext|>
-dictionary_entry_019 n. This example entry describes a reusable concept for phase one language model training.
+Abject adj. Miserable, wretched; degraded; despicable. abjection n. [latin jacio -ject- throw]
 <|endoftext|>
-dictionary_entry_020 n. This example entry describes a reusable concept for phase one language model training.
+Abjure v. (-ring) renounce on oath (an opinion, cause, etc.). abjuration n. [latin juro swear]
 <|endoftext|>
-dictionary_entry_021 n. This example entry describes a reusable concept for phase one language model training.
+Ablative gram. —n. Case (in latin) of nouns and pronouns indicating an agent, instrument, or location. —adj. Of or in the ablative. [latin ablatus taken away]
 <|endoftext|>
-dictionary_entry_022 n. This example entry describes a reusable concept for phase one language model training.
+Ablaze predic. Adj. & adv. 1 on fire. 2 glittering, glowing. 3 greatly excited.
 <|endoftext|>
-dictionary_entry_023 n. This example entry describes a reusable concept for phase one language model training.
+Able adj. (abler, ablest) 1 (often foll. By to + infin.; used esp. In is able, will be able, etc., replacing tenses of can) having the capacity or power (not able to come). 2 talented, clever. ably adv. [latin habilis]
 <|endoftext|>
-dictionary_entry_024 n. This example entry describes a reusable concept for phase one language model training.
+-able suffix forming adjectives meaning: 1 that may or must be (eatable; payable). 2 that can be made the subject of (dutiable; objectionable). 3 relevant to or in accordance with (fashionable; seasonable). [latin -abilis]
 <|endoftext|>
-dictionary_entry_025 n. This example entry describes a reusable concept for phase one language model training.
+Able-bodied adj. Fit, healthy.
 <|endoftext|>
-dictionary_entry_026 n. This example entry describes a reusable concept for phase one language model training.
+Able-bodied seaman n. Ordinary trained seaman.
 <|endoftext|>
-dictionary_entry_027 n. This example entry describes a reusable concept for phase one language model training.
+Ablution n. (usu. In pl.) 1 ceremonial washing of the hands, sacred vessels, etc. 2 colloq. A ordinary bodily washing. B place for this. [latin ablutio from luo lut- wash]
 <|endoftext|>
-dictionary_entry_028 n. This example entry describes a reusable concept for phase one language model training.
+-ably suffix forming adverbs corresponding to adjectives in -able.
 <|endoftext|>
-dictionary_entry_029 n. This example entry describes a reusable concept for phase one language model training.
+Abm abbr. Anti-ballistic missile.
 <|endoftext|>
-dictionary_entry_030 n. This example entry describes a reusable concept for phase one language model training.
+Abnegate v. (-ting) give up or renounce (a pleasure or right etc.). [latin nego deny]
 <|endoftext|>
-dictionary_entry_031 n. This example entry describes a reusable concept for phase one language model training.
+Abnegation n. Denial; renunciation of a doctrine.
 <|endoftext|>
-dictionary_entry_032 n. This example entry describes a reusable concept for phase one language model training.
+Abnormal adj. Deviating from the norm; exceptional. abnormality n. (pl. -ies). Abnormally adv. [french: related to *anomalous]
 <|endoftext|>
-dictionary_entry_033 n. This example entry describes a reusable concept for phase one language model training.
+Abo (also abo) austral. Slang usu. Offens. —n. (pl. -s) aboriginal. —adj. Aboriginal. [abbreviation]
 <|endoftext|>
-dictionary_entry_034 n. This example entry describes a reusable concept for phase one language model training.
+Aboard adv. & prep. On or into (a ship, aircraft, etc.). [from *a2]
 <|endoftext|>
-dictionary_entry_035 n. This example entry describes a reusable concept for phase one language model training.
+Abode1 n. Dwelling-place. [related to *abide]
 <|endoftext|>
-dictionary_entry_036 n. This example entry describes a reusable concept for phase one language model training.
+Abode2 see *abide.
 <|endoftext|>
-dictionary_entry_037 n. This example entry describes a reusable concept for phase one language model training.
+Abolish v. Put an end to (esp. A custom or institution). [latin aboleo destroy]
 <|endoftext|>
-dictionary_entry_038 n. This example entry describes a reusable concept for phase one language model training.
+Abolition n. Abolishing or being abolished. abolitionist n.
 <|endoftext|>
-dictionary_entry_039 n. This example entry describes a reusable concept for phase one language model training.
+A-bomb n. = *atomic bomb. [a for *atomic]
 <|endoftext|>
-dictionary_entry_040 n. This example entry describes a reusable concept for phase one language model training.
+Abominable adj. 1 detestable, loathsome. 2 colloq. Very unpleasant (abominable weather). abominably adv. [latin abominor deprecate]
 <|endoftext|>
-dictionary_entry_041 n. This example entry describes a reusable concept for phase one language model training.
+Abominable snowman n. Supposed manlike or bearlike himalayan animal; yeti.
 <|endoftext|>
-dictionary_entry_042 n. This example entry describes a reusable concept for phase one language model training.
+Abominate v. (-ting) detest, loathe. abomination n. [latin: related to *abominable]
 <|endoftext|>
-dictionary_entry_043 n. This example entry describes a reusable concept for phase one language model training.
+Aboriginal —adj. 1 indigenous, inhabiting a land from the earliest times, esp. Before the arrival of colonists. 2 (usu. Aboriginal) of australian aborigines. —n. 1 aboriginal inhabitant. 2 (usu. Aboriginal) aboriginal inhabitant of australia. [latin: related to *origin]
 <|endoftext|>
-dictionary_entry_044 n. This example entry describes a reusable concept for phase one language model training.
+Aborigine n. (usu. In pl.) 1 aboriginal inhabitant. 2 (usu. Aborigine) aboriginal inhabitant of australia.
 <|endoftext|>
-dictionary_entry_045 n. This example entry describes a reusable concept for phase one language model training.
+Usage when referring to the people, aboriginal is preferred for the singular form and aborigines for the plural, although aboriginals is also acceptable.
 <|endoftext|>
-dictionary_entry_046 n. This example entry describes a reusable concept for phase one language model training.
+Abort v. 1 miscarry. 2 a effect abortion of (a foetus). B effect abortion in (a mother). 3 end or cause (a project etc.) To end before completion. [latin orior be born]
 <|endoftext|>
-dictionary_entry_047 n. This example entry describes a reusable concept for phase one language model training.
+Abortion n. 1 natural or (esp.) Induced expulsion of a foetus from the womb before it is able to survive independently. 2 stunted or deformed creature or thing. 3 failed project or action. abortionist n. Aboriginal —adj. 1 indigenous, inhabiting a land from the earliest times, esp. Before the arrival of colonists. 2 (usu. Aboriginal) of australian aborigines. —n. 1 aboriginal inhabitant. 2 (usu. Aboriginal) aboriginal inhabitant of australia. [latin: related to *origin]
 <|endoftext|>
-dictionary_entry_048 n. This example entry describes a reusable concept for phase one language model training.
+Abortion n. 1 natural or (esp.) Induced expulsion of a foetus from the womb before it is able to survive independently. 2 stunted or deformed creature or thing. 3 failed project or action. abortionist n.
 <|endoftext|>
-dictionary_entry_049 n. This example entry describes a reusable concept for phase one language model training.
+Abortive adj. Fruitless, unsuccessful.
 <|endoftext|>
-dictionary_entry_050 n. This example entry describes a reusable concept for phase one language model training.
+Abound v. 1 be plentiful. 2 (foll. By in, with) be rich; teem. [latin unda wave]
 <|endoftext|>
-dictionary_entry_051 n. This example entry describes a reusable concept for phase one language model training.
+About —prep. 1 a on the subject of (a book about birds). B relating to (glad about it). C in relation to (symmetry about a plane). 2 at a time near to (about six). 3 a in, round (walked about the town; a scarf about her neck). B all round from a centre (look about you). 4 at points in (strewn about the house). 5 carried with (no money about me). 6 occupied with (about her business). —adv. 1 a approximately (about ten miles). B colloq. In an understatement (just about had enough). 2 nearby (a lot of flu about). 3 in every direction (look about). 4 on the move; in action (out and about). 5 in rotation or succession (turn and turn about). be about (or all about) colloq. Have as its essential nature (life is all about having fun). Be about to be on the point of (was about to laugh). [old english]
 <|endoftext|>
-dictionary_entry_052 n. This example entry describes a reusable concept for phase one language model training.
+About-face n. & int. = *about-turn, about turn.
 <|endoftext|>
-dictionary_entry_053 n. This example entry describes a reusable concept for phase one language model training.
+About-turn —n. 1 turn made so as to face the opposite direction. 2 change of opinion or policy etc. —int. (about turn) mil. Command to make an about-turn.
 <|endoftext|>
-dictionary_entry_054 n. This example entry describes a reusable concept for phase one language model training.
+Above —prep. 1 over; on the top of; higher than; over the surface of (head above water; above the din). 2 more than (above twenty people). 3 higher in rank, importance, etc., than. 4 a too great or good for (not above cheating). B beyond the reach of (above my understanding; above suspicion). —adv. 1 at or to a higher point; overhead (the floor above; the sky above). 2 earlier on a page or in a book (as noted above). —adj. Preceding (the above argument). —n. (prec. By the) preceding text (the above shows). above all most of all, more than anything else. Above oneself conceited, arrogant. [old english: related to *a2]
 <|endoftext|>
-dictionary_entry_055 n. This example entry describes a reusable concept for phase one language model training.
+Above-board adj. & adv. Without concealment; open or openly.
 <|endoftext|>
-dictionary_entry_056 n. This example entry describes a reusable concept for phase one language model training.
+Abracadabra —int. Supposedly magic word used in conjuring. —n. Spell or charm. [latin from greek]
 <|endoftext|>
-dictionary_entry_057 n. This example entry describes a reusable concept for phase one language model training.
+Abrade v. (-ding) scrape or wear away (skin, rock, etc.) By rubbing. [latin rado scrape]
 <|endoftext|>
-dictionary_entry_058 n. This example entry describes a reusable concept for phase one language model training.
+Abrasion n. 1 scraping or wearing away (of skin, rock, etc.). 2 resulting damaged area.
 <|endoftext|>
-dictionary_entry_059 n. This example entry describes a reusable concept for phase one language model training.
+Abrasive —adj. 1 a tending to rub or graze. B capable of polishing by rubbing or grinding. 2 harsh or hurtful in manner. —n. Abrasive substance.
 <|endoftext|>
-dictionary_entry_060 n. This example entry describes a reusable concept for phase one language model training.
+Abreast adv. 1 side by side and facing the same way. 2 (foll. By of) up to date.
 <|endoftext|>
-dictionary_entry_061 n. This example entry describes a reusable concept for phase one language model training.
+Abridge v. (-ging) shorten (a book, film, etc.). abridgement n. [latin: related to *abbreviate]
 <|endoftext|>
-dictionary_entry_062 n. This example entry describes a reusable concept for phase one language model training.
+Abroad adv. 1 in or to a foreign country or countries. 2 widely (scatter abroad). 3 in circulation (rumour abroad).
 <|endoftext|>
-dictionary_entry_063 n. This example entry describes a reusable concept for phase one language model training.
+Abrogate v. (-ting) repeal, abolish (a law etc.). abrogation n. [latin rogo propose a law]
 <|endoftext|>
-dictionary_entry_064 n. This example entry describes a reusable concept for phase one language model training.
+Abrupt adj. 1 sudden, hasty (abrupt end). 2 (of manner etc.) Curt. 3 steep, precipitous. abruptly adv. Abruptness n. [latin: related to *rupture]
 <|endoftext|>
-dictionary_entry_065 n. This example entry describes a reusable concept for phase one language model training.
+Abscess n. (pl. Abscesses) swelling containing pus. [latin: related to *ab-, *cede] Abseil —v. Descend by using a doubled rope coiled round the body and fixed at a higher point. —n. Descent made by abseiling. [german ab down, seil rope]
 <|endoftext|>
-dictionary_entry_066 n. This example entry describes a reusable concept for phase one language model training.
+Absence n. 1 being away. 2 time of this. 3 (foll. By of) lack of. absence of mind inattentiveness. [latin absentia]
 <|endoftext|>
-dictionary_entry_067 n. This example entry describes a reusable concept for phase one language model training.
+Absent —adj. 1 not present. 2 not existing; lacking. 3 inattentive. —v.refl. Go, or stay, away. absently adv. (in sense 3 of adj.).
 <|endoftext|>
-dictionary_entry_068 n. This example entry describes a reusable concept for phase one language model training.
+Absentee n. Person not present.
 <|endoftext|>
-dictionary_entry_069 n. This example entry describes a reusable concept for phase one language model training.
+Absenteeism n. Absenting oneself from work or school etc., esp. Frequently or illicitly.
 <|endoftext|>
-dictionary_entry_070 n. This example entry describes a reusable concept for phase one language model training.
+Absentee landlord n. One who lets a property while living elsewhere.
 <|endoftext|>
-dictionary_entry_071 n. This example entry describes a reusable concept for phase one language model training.
+Absent-minded adj. Forgetful or inattentive. absent-mindedly adv. Absent-mindedness n.
 <|endoftext|>
-dictionary_entry_072 n. This example entry describes a reusable concept for phase one language model training.
+Absinth n. 1 wormwood. 2 (usu. Absinthe) aniseed-flavoured liqueur based on this. [french from latin]
 <|endoftext|>
-dictionary_entry_073 n. This example entry describes a reusable concept for phase one language model training.
+Absolute —adj. 1 complete, utter (absolute bliss). 2 unconditional (absolute authority). 3 despotic (absolute monarch). 4 not relative or comparative (absolute standard). 5 gram. A (of a construction) syntactically independent of the rest of the sentence, as in dinner being over, we left the table. B (of an adjective or transitive verb) without an expressed noun or object (e.g. The deaf, guns kill). 6 (of a legal decree etc.) Final. —n. Philos. (prec. By the) that which can exist independently of anything else. [latin: related to *absolve]
 <|endoftext|>
-dictionary_entry_074 n. This example entry describes a reusable concept for phase one language model training.
+Absolutely adv. 1 completely, utterly. 2 in an absolute sense (god exists absolutely). 3 colloq. (used in reply) quite so; yes.
 <|endoftext|>
-dictionary_entry_075 n. This example entry describes a reusable concept for phase one language model training.
+Absolute majority n. Majority over all rivals combined.
 <|endoftext|>
-dictionary_entry_076 n. This example entry describes a reusable concept for phase one language model training.
+Absolute pitch n. Ability to recognize or sound any given note.
 <|endoftext|>
-dictionary_entry_077 n. This example entry describes a reusable concept for phase one language model training.
+Absolute temperature n. One measured from absolute zero.
 <|endoftext|>
-dictionary_entry_078 n. This example entry describes a reusable concept for phase one language model training.
+Absolute zero n. Theoretical lowest possible temperature calculated as –273.15° c (or 0° k).
 <|endoftext|>
-dictionary_entry_079 n. This example entry describes a reusable concept for phase one language model training.
+Absolution n. Formal forgiveness of sins.
 <|endoftext|>
-dictionary_entry_080 n. This example entry describes a reusable concept for phase one language model training.
+Absolutism n. Principle or practice of absolute government. absolutist n.
 <|endoftext|>
-dictionary_entry_081 n. This example entry describes a reusable concept for phase one language model training.
+Absolve v. (-ving) (often foll. By from, of) set or pronounce free from blame or obligation etc. [latin: related to *solve]
 <|endoftext|>
-dictionary_entry_082 n. This example entry describes a reusable concept for phase one language model training.
+Absorb v. 1 incorporate as part of itself or oneself. 2 take in, suck up (liquid, heat, knowledge, etc.). 3 reduce the effect or intensity of; deal easily with (an impact, sound, difficulty, etc.). 4 consume (resources etc.). 5 (often as absorbing adj.) Engross the attention of. [latin sorbeo suck in]
 <|endoftext|>
-dictionary_entry_083 n. This example entry describes a reusable concept for phase one language model training.
+Absorbent —adj. Tending to absorb. —n. Absorbent substance or organ.
 <|endoftext|>
-dictionary_entry_084 n. This example entry describes a reusable concept for phase one language model training.
+Absorption n. 1 absorbing or being absorbed. 2 mental engrossment. absorptive adj.
 <|endoftext|>
-dictionary_entry_085 n. This example entry describes a reusable concept for phase one language model training.
+Abstain v. 1 (usu. Foll. By from) refrain from indulging (abstained from smoking). 2 decline to vote. [latin teneo tent- hold]
 <|endoftext|>
-dictionary_entry_086 n. This example entry describes a reusable concept for phase one language model training.
+Abstemious adj. Moderate or ascetic, esp. In eating and drinking. abstemiously adv. [latin: related to *ab-, temetum strong drink]
 <|endoftext|>
-dictionary_entry_087 n. This example entry describes a reusable concept for phase one language model training.
+Abstention n. Abstaining, esp. From voting. [latin: related to *abstain]
 <|endoftext|>
-dictionary_entry_088 n. This example entry describes a reusable concept for phase one language model training.
+Abstinence n. Abstaining, esp. From food or alcohol. abstinent adj. [french: related to *abstain]
 <|endoftext|>
-dictionary_entry_089 n. This example entry describes a reusable concept for phase one language model training.
+Abstract —adj. 1 a of or existing in thought or theory rather than matter or practice; not concrete. B (of a word, esp. A noun) denoting a quality, condition, etc., not a concrete object. 2 (of art) achieving its effect by form and colour rather than by realism. —v. 1 (often foll. By from) extract, remove. 2 summarize. —n. 1 summary. 2 abstract work of art. 3 abstraction or abstract term. [latin: related to *tract1]
 <|endoftext|>
-dictionary_entry_090 n. This example entry describes a reusable concept for phase one language model training.
+Abstracted adj. Inattentive, distracted. abstractedly adv.
 <|endoftext|>
-dictionary_entry_091 n. This example entry describes a reusable concept for phase one language model training.
+Abstraction n. 1 abstracting or taking away. 2 abstract or visionary idea. 3 abstract qualities (esp. In art). 4 absent-mindedness.
 <|endoftext|>
-dictionary_entry_092 n. This example entry describes a reusable concept for phase one language model training.
+Abstruse adj. Hard to understand, profound. [latin abstrudo -trus- conceal]
 <|endoftext|>
-dictionary_entry_093 n. This example entry describes a reusable concept for phase one language model training.
+Absurd adj. Wildly illogical or inappropriate; ridiculous. absurdity n. (pl. -ies). Absurdly adv. [latin: related to *surd]
 <|endoftext|>
-dictionary_entry_094 n. This example entry describes a reusable concept for phase one language model training.
+Abta abbr. Association of british travel agents.
 <|endoftext|>
-dictionary_entry_095 n. This example entry describes a reusable concept for phase one language model training.
+Abundance n. 1 plenty; more than enough; a lot. 2 wealth. [latin: related to *abound] Abundance n. 1 plenty; more than enough; a lot. 2 wealth. [latin: related to *abound]
 <|endoftext|>
-dictionary_entry_096 n. This example entry describes a reusable concept for phase one language model training.
+Abundant adj. 1 plentiful. 2 (foll. By in) rich (abundant in fruit). abundantly adv.
 <|endoftext|>
-dictionary_entry_097 n. This example entry describes a reusable concept for phase one language model training.
+Abuse —v. (-sing) 1 use improperly, misuse. 2 insult verbally. 3 maltreat. —n. 1 misuse. 2 insulting language. 3 unjust or corrupt practice. 4 maltreatment (child abuse). abuser n. [latin: related to *use]
 <|endoftext|>
-dictionary_entry_098 n. This example entry describes a reusable concept for phase one language model training.
+Abusive adj. Insulting, offensive. abusively adv.
 <|endoftext|>
-dictionary_entry_099 n. This example entry describes a reusable concept for phase one language model training.
+Abut v. (-tt-) 1 (foll. By on) (of land) border on. 2 (foll. By on, against) (of a building) touch or lean upon (another). [anglo-latin butta strip of land: related to *butt1]
 <|endoftext|>
-dictionary_entry_100 n. This example entry describes a reusable concept for phase one language model training.
+Abutment n. Lateral supporting structure of a bridge, arch, etc.
 <|endoftext|>
-dictionary_entry_101 n. This example entry describes a reusable concept for phase one language model training.
+Abuzz adv. & adj. In a state of excitement or activity.
 <|endoftext|>
-dictionary_entry_102 n. This example entry describes a reusable concept for phase one language model training.
+Abysmal adj. 1 colloq. Extremely bad (abysmal food). 2 profound, utter (abysmal ignorance). abysmally adv. [latin: related to *abyss]
 <|endoftext|>
-dictionary_entry_103 n. This example entry describes a reusable concept for phase one language model training.
+Abyss n. 1 deep chasm. 2 immeasurable depth (abyss of despair). [latin from greek, = bottomless]
 <|endoftext|>
-dictionary_entry_104 n. This example entry describes a reusable concept for phase one language model training.
+Ac abbr. 1 (also ac) alternating current. 2 aircraftman.
 <|endoftext|>
-dictionary_entry_105 n. This example entry describes a reusable concept for phase one language model training.
+Ac symb. Actinium.
 <|endoftext|>
-dictionary_entry_106 n. This example entry describes a reusable concept for phase one language model training.
+A/c abbr. Account. [account current]
 <|endoftext|>
-dictionary_entry_107 n. This example entry describes a reusable concept for phase one language model training.
+-ac suffix forming adjectives often (or only) used as nouns (cardiac; maniac). [latin -acus, greek -akos]
 <|endoftext|>
-dictionary_entry_108 n. This example entry describes a reusable concept for phase one language model training.
+Acacia n. Tree with yellow or white flowers, esp. One yielding gum arabic. [latin from greek]
 <|endoftext|>
-dictionary_entry_109 n. This example entry describes a reusable concept for phase one language model training.
+Academia n. The academic world; scholastic life.
 <|endoftext|>
-dictionary_entry_110 n. This example entry describes a reusable concept for phase one language model training.
+Academic —adj. 1 scholarly, of learning. 2 of no practical relevance; theoretical. —n. Teacher or scholar in a university etc. academically adv.
 <|endoftext|>
-dictionary_entry_111 n. This example entry describes a reusable concept for phase one language model training.
+Academician n. Member of an academy. [french académicien]
 <|endoftext|>
-dictionary_entry_112 n. This example entry describes a reusable concept for phase one language model training.
+Academy n. (pl. -ies) 1 place of specialized training (military academy). 2 (usu. Academy) society or institution of distinguished scholars, artists, scientists, etc. (royal academy). 3 scot. Secondary school. [greek akademeia the place in athens where plato taught]
 <|endoftext|>
-dictionary_entry_113 n. This example entry describes a reusable concept for phase one language model training.
+Acanthus n. (pl. -thuses) 1 herbaceous plant with spiny leaves. 2 archit. Representation of its leaf. [latin from greek]
 <|endoftext|>
-dictionary_entry_114 n. This example entry describes a reusable concept for phase one language model training.
+A cappella adj. & adv. (of choral music) unaccompanied. [italian, = in church style]
 <|endoftext|>
-dictionary_entry_115 n. This example entry describes a reusable concept for phase one language model training.
+Acas abbr. Advisory, conciliation, and arbitration service.
 <|endoftext|>
-dictionary_entry_116 n. This example entry describes a reusable concept for phase one language model training.
+Accede v. (-ding) (foll. By to) 1 take office, esp. As monarch. 2 assent or agree. [latin: related to *cede]
 <|endoftext|>
-dictionary_entry_117 n. This example entry describes a reusable concept for phase one language model training.
+Accelerate v. (-ting) move or cause to move or happen more quickly. acceleration n. [latin: related to *celerity]
 <|endoftext|>
-dictionary_entry_118 n. This example entry describes a reusable concept for phase one language model training.
+Accelerator n. 1 device for increasing speed, esp. The pedal controlling the speed of a vehicle's engine. 2 physics apparatus for imparting high speeds to charged particles.
 <|endoftext|>
-dictionary_entry_119 n. This example entry describes a reusable concept for phase one language model training.
+Accent —n. 1 particular (esp. Local or national) mode of pronunciation. 2 distinctive feature or emphasis (accent on speed). 3 prominence given to a syllable by stress or pitch. 4 mark on a letter or word to indicate pitch, stress, or vowel quality. —v. 1 emphasize (a word or syllable etc.). 2 write or print accents on (words etc.). 3 accentuate. [latin cantus song]
 <|endoftext|>
-dictionary_entry_120 n. This example entry describes a reusable concept for phase one language model training.
+Accentuate v. (-ting) emphasize, make prominent. accentuation n. [medieval latin: related to *accent]
 <|endoftext|>
-dictionary_entry_121 n. This example entry describes a reusable concept for phase one language model training.
+Accept v. 1 (also absol.) Willingly receive (a thing offered). 2 (also absol.) Answer affirmatively (an offer etc.). 3 regard favourably; treat as welcome (felt accepted). 4 believe, receive (an opinion, explanation, etc.) As adequate or valid. 5 take as suitable (does accept cheques). 6 undertake (an office or duty). [latin capio take]
 <|endoftext|>
-dictionary_entry_122 n. This example entry describes a reusable concept for phase one language model training.
+Acceptable adj. 1 worth accepting, welcome. 2 tolerable. acceptability n. Acceptably adv. [french: related to *accept]
 <|endoftext|>
-dictionary_entry_123 n. This example entry describes a reusable concept for phase one language model training.
+Acceptance n. 1 willingness to accept. 2 affirmative answer to an invitation etc. 3 approval, belief (found wide acceptance).
 <|endoftext|>
-dictionary_entry_124 n. This example entry describes a reusable concept for phase one language model training.
+Access —n. 1 way of approach or entry (shop with rear access). 2 a right or opportunity to reach or use or visit; admittance (access to secret files, to the prisoner). B accessibility. 3 archaic outburst (an access of anger). —v. 1 computing gain access to (data etc.). 2 accession. [french: related to *accede] Accessible adj. (often foll. By to) 1 reachable or obtainable; readily available. 2 easy to understand. accessibility n.
 <|endoftext|>
-dictionary_entry_125 n. This example entry describes a reusable concept for phase one language model training.
+Accession —n. 1 taking office, esp. As monarch. 2 thing added. —v. Record the addition of (a new item) to a library etc.
 <|endoftext|>
-dictionary_entry_126 n. This example entry describes a reusable concept for phase one language model training.
+Accessory n. (pl. -ies) 1 additional or extra thing. 2 (usu. In pl.) Small attachment, fitting, or subsidiary item of dress (e.g. Shoes, gloves). 3 (often foll. By to) person who abets or is privy to an (esp. Illegal) act. [medieval latin: related to *accede]
 <|endoftext|>
-dictionary_entry_127 n. This example entry describes a reusable concept for phase one language model training.
+Access road n. Road giving access only to the properties along it.
 <|endoftext|>
-dictionary_entry_128 n. This example entry describes a reusable concept for phase one language model training.
+Access time n. Computing time taken to retrieve data from storage.
 <|endoftext|>
-dictionary_entry_129 n. This example entry describes a reusable concept for phase one language model training.
+Accident n. 1 unfortunate esp. Harmful event, caused unintentionally. 2 event that is unexpected or without apparent cause. by accident unintentionally. [latin cado fall]
 <|endoftext|>
-dictionary_entry_130 n. This example entry describes a reusable concept for phase one language model training.
+Accidental —adj. Happening by chance or accident. —n. Mus. Sign indicating a note's momentary departure from the key signature. accidentally adv.
 <|endoftext|>
-dictionary_entry_131 n. This example entry describes a reusable concept for phase one language model training.
+Accident-prone adj. Clumsy.
 <|endoftext|>
-dictionary_entry_132 n. This example entry describes a reusable concept for phase one language model training.
+Acclaim —v. 1 welcome or applaud enthusiastically. 2 hail as (acclaimed him king). —n. Applause, welcome, public praise. [latin acclamo: related to *claim]
 <|endoftext|>
-dictionary_entry_133 n. This example entry describes a reusable concept for phase one language model training.
+Acclamation n. 1 loud and eager assent. 2 (usu. In pl.) Shouting in a person's honour.
 <|endoftext|>
-dictionary_entry_134 n. This example entry describes a reusable concept for phase one language model training.
+Acclimatize v. (also -ise) (-zing or -sing) adapt to a new climate or conditions. acclimatization n. [french acclimater: related to *climate]
 <|endoftext|>
-dictionary_entry_135 n. This example entry describes a reusable concept for phase one language model training.
+Accolade n. 1 praise given. 2 touch made with a sword at the conferring of a knighthood. [latin collum neck]
 <|endoftext|>
-dictionary_entry_136 n. This example entry describes a reusable concept for phase one language model training.
+Accommodate v. (-ting) 1 provide lodging or room for (flat accommodates two). 2 adapt, harmonize, reconcile (must accommodate himself to new ideas). 3 a do favour to, oblige (a person). B (foll. By with) supply (a person) with. [latin: related to *commode]
 <|endoftext|>
-dictionary_entry_137 n. This example entry describes a reusable concept for phase one language model training.
+Accommodating adj. Obliging, compliant.
 <|endoftext|>
-dictionary_entry_138 n. This example entry describes a reusable concept for phase one language model training.
+Accommodation n. 1 lodgings. 2 adjustment, adaptation. 3 convenient arrangement; settlement, compromise.
 <|endoftext|>
-dictionary_entry_139 n. This example entry describes a reusable concept for phase one language model training.
+Accommodation address n. Postal address used by a person unable or unwilling to give a permanent address.
 <|endoftext|>
-dictionary_entry_140 n. This example entry describes a reusable concept for phase one language model training.
+Accompaniment n. 1 instrumental or orchestral support for a solo instrument, voice, or group. 2 accompanying thing. accompanist n. (in sense 1).
 <|endoftext|>
-dictionary_entry_141 n. This example entry describes a reusable concept for phase one language model training.
+Accompany v. (-ies, -ied) 1 go with; escort. 2 (usu. In passive; foll. By with, by) be done or found with; supplement. 3 mus. Partner with accompaniment. [french: related to *companion]
 <|endoftext|>
-dictionary_entry_142 n. This example entry describes a reusable concept for phase one language model training.
+Accomplice n. Partner in a crime etc. [latin: related to *complex]
 <|endoftext|>
-dictionary_entry_143 n. This example entry describes a reusable concept for phase one language model training.
+Accomplish v. Succeed in doing; achieve, complete. [latin: related to *complete]
 <|endoftext|>
-dictionary_entry_144 n. This example entry describes a reusable concept for phase one language model training.
+Accomplished adj. Clever, skilled.
 <|endoftext|>
-dictionary_entry_145 n. This example entry describes a reusable concept for phase one language model training.
+Accomplishment n. 1 completion (of a task etc.). 2 acquired, esp. Social, skill. 3 thing achieved.
 <|endoftext|>
-dictionary_entry_146 n. This example entry describes a reusable concept for phase one language model training.
+Accord —v. 1 (often foll. By with) be consistent or in harmony. 2 grant (permission, a request, etc.); give (a welcome etc.). —n. 1 agreement, consent. 2 mus. & art etc. Harmony. of one's own accord on one's own initiative; voluntarily. With one accord unanimously. [latin cor cord- heart]
 <|endoftext|>
-dictionary_entry_147 n. This example entry describes a reusable concept for phase one language model training.
+Accordance n. in accordance with in conformity to. accordant adj.
 <|endoftext|>
-dictionary_entry_148 n. This example entry describes a reusable concept for phase one language model training.
+According adv. 1 (foll. By to) a as stated by (according to mary). B in proportion to (lives according to his means). 2 (foll. By as + clause) in a manner or to a degree that varies as (pays according as he is able).
 <|endoftext|>
-dictionary_entry_149 n. This example entry describes a reusable concept for phase one language model training.
+Accordingly adv. 1 as circumstances suggest or require (please act accordingly). 2 consequently (accordingly, he left the room).
 <|endoftext|>
-dictionary_entry_150 n. This example entry describes a reusable concept for phase one language model training.
+Accordion n. Musical reed instrument with concertina-like bellows, keys, and buttons. accordionist n. [italian accordare to tune]
 <|endoftext|>
-dictionary_entry_151 n. This example entry describes a reusable concept for phase one language model training.
+Accost v. 1 approach and address (a person), esp. Boldly. 2 (of a prostitute) solicit. [latin costa rib] Accession —n. 1 taking office, esp. As monarch. 2 thing added. —v. Record the addition of (a new item) to a library etc.
 <|endoftext|>
-dictionary_entry_152 n. This example entry describes a reusable concept for phase one language model training.
+Accost v. 1 approach and address (a person), esp. Boldly. 2 (of a prostitute) solicit. [latin costa rib]
 <|endoftext|>
-dictionary_entry_153 n. This example entry describes a reusable concept for phase one language model training.
+Account —n. 1 narration, description (an account of his trip). 2 arrangement at a bank etc. For depositing and withdrawing money, credit, etc. (open an account). 3 record or statement of financial transactions with the balance (kept detailed accounts). —v. Consider as (account him wise, a fool). Accountable adj. 1 responsible; required to account for one's conduct. 2 explicable, understandable. accountability n.
 <|endoftext|>
-dictionary_entry_154 n. This example entry describes a reusable concept for phase one language model training.
+Accountant n. Professional keeper or verifier of accounts. accountancy n. Accounting n.
 <|endoftext|>
-dictionary_entry_155 n. This example entry describes a reusable concept for phase one language model training.
+Accouterments n.pl. (brit. Accoutrements) 1 equipment, trappings. 2 soldier's equipment excluding weapons and clothes. [french]
 <|endoftext|>
-dictionary_entry_156 n. This example entry describes a reusable concept for phase one language model training.
+Accoutrements n.pl. (us accouterments) 1 equipment, trappings. 2 soldier's equipment excluding weapons and clothes. [french]
 <|endoftext|>
-dictionary_entry_157 n. This example entry describes a reusable concept for phase one language model training.
+Accredit v. (-t-) 1 (foll. By to) attribute (a saying etc.) To (a person). 2 (foll. By with) credit (a person) with (a saying etc.). 3 (usu. Foll. By to or at) send (an ambassador etc.) With credentials. 4 gain influence for or make credible (an adviser, a statement, etc.). [french: related to *credit]
 <|endoftext|>
-dictionary_entry_158 n. This example entry describes a reusable concept for phase one language model training.
+Accredited adj. 1 officially recognized. 2 generally accepted.
 <|endoftext|>
-dictionary_entry_159 n. This example entry describes a reusable concept for phase one language model training.
+Accretion n. 1 growth or increase by accumulation, addition, or organic enlargement. 2 the resulting whole. 3 a matter so added. B adhesion of this to the core matter. [latin cresco cret- grow]
 <|endoftext|>
-dictionary_entry_160 n. This example entry describes a reusable concept for phase one language model training.
+Accrue v. (-ues, -ued, -uing) (often foll. By to) come as a natural increase or advantage, esp. Financial. [latin: related to *accretion]
 <|endoftext|>
-dictionary_entry_161 n. This example entry describes a reusable concept for phase one language model training.
+Accumulate v. (-ting) 1 acquire an increasing number or quantity of; amass, collect. 2 grow numerous; increase. [latin: related to *cumulus]
 <|endoftext|>
-dictionary_entry_162 n. This example entry describes a reusable concept for phase one language model training.
+Accumulation n. 1 accumulating or being accumulated. 2 accumulated mass. 3 growth of capital by continued interest. accumulative adj.
 <|endoftext|>
-dictionary_entry_163 n. This example entry describes a reusable concept for phase one language model training.
+Accumulator n. 1 rechargeable electric cell. 2 bet placed on a sequence of events, with the winnings and stake from each placed on the next.
 <|endoftext|>
-dictionary_entry_164 n. This example entry describes a reusable concept for phase one language model training.
+Accuracy n. Exactness or careful precision. [latin cura care]
 <|endoftext|>
-dictionary_entry_165 n. This example entry describes a reusable concept for phase one language model training.
+Accurate adj. Careful, precise; conforming exactly with the truth or a standard. accurately adv.
 <|endoftext|>
-dictionary_entry_166 n. This example entry describes a reusable concept for phase one language model training.
+Accursed adj. 1 under a curse. 2 colloq. Detestable, annoying. [old english a- intensive prefix, *curse]
 <|endoftext|>
-dictionary_entry_167 n. This example entry describes a reusable concept for phase one language model training.
+Accusation n. Accusing or being accused. [french: related to *accuse]
 <|endoftext|>
-dictionary_entry_168 n. This example entry describes a reusable concept for phase one language model training.
+Accusative gram. —n. Case expressing the object of an action. —adj. Of or in this case.
 <|endoftext|>
-dictionary_entry_169 n. This example entry describes a reusable concept for phase one language model training.
+Accusatory adj. Of or implying accusation.
 <|endoftext|>
-dictionary_entry_170 n. This example entry describes a reusable concept for phase one language model training.
+Accuse v. (-sing) (often foll. By of) charge with a fault or crime; blame. [latin accusare: related to *cause]
 <|endoftext|>
-dictionary_entry_171 n. This example entry describes a reusable concept for phase one language model training.
+Accustom v. (foll. By to) make used to (accustomed him to hardship). [french: related to *custom]
 <|endoftext|>
-dictionary_entry_172 n. This example entry describes a reusable concept for phase one language model training.
+Accustomed adj. 1 (usu. Foll. By to) used to a thing. 2 customary, usual.
 <|endoftext|>
-dictionary_entry_173 n. This example entry describes a reusable concept for phase one language model training.
+Ace —n. 1 playing-card etc. With a single spot and generally signifying ‘one’. 2 a person who excels in some activity. B pilot who has shot down many enemy aircraft. 3 (in tennis) unreturnable stroke (esp. A service). —adj. Slang excellent. within an ace of on the verge of. [latin as unity]
 <|endoftext|>
-dictionary_entry_174 n. This example entry describes a reusable concept for phase one language model training.
+Acellular adj. Having no cells; not consisting of cells. Aceous suffix forming adjectives in the sense ‘of the nature of’, esp. In the natural sciences (herbaceous). [latin -aceus]
 <|endoftext|>
-dictionary_entry_175 n. This example entry describes a reusable concept for phase one language model training.
+Acerbic adj. Harsh and sharp, esp. In speech or manner. acerbity n. (pl. -ies). [latin acerbus sour]
 <|endoftext|>
-dictionary_entry_176 n. This example entry describes a reusable concept for phase one language model training.
+Acetaldehyde n. Colourless volatile liquid aldehyde. [from *acetic, *aldehyde]
 <|endoftext|>
-dictionary_entry_177 n. This example entry describes a reusable concept for phase one language model training.
+Acetate n. 1 salt or ester of acetic acid, esp. The cellulose ester. 2 fabric made from this.
 <|endoftext|>
-dictionary_entry_178 n. This example entry describes a reusable concept for phase one language model training.
+Acetic adj. Of or like vinegar. [latin acetum vinegar]
 <|endoftext|>
-dictionary_entry_179 n. This example entry describes a reusable concept for phase one language model training.
+Acetic acid n. Clear liquid acid giving vinegar its characteristic taste.
 <|endoftext|>
-dictionary_entry_180 n. This example entry describes a reusable concept for phase one language model training.
+Acetone n. Colourless volatile liquid that dissolves organic compounds, esp. Paints, varnishes, etc.
 <|endoftext|>
-dictionary_entry_181 n. This example entry describes a reusable concept for phase one language model training.
+Acetylene n. Hydrocarbon gas burning with a bright flame, used esp. In welding.
 <|endoftext|>
-dictionary_entry_182 n. This example entry describes a reusable concept for phase one language model training.
+Ache —n. 1 continuous dull pain. 2 mental distress. —v. (-ching) suffer from or be the source of an ache. [old english]
 <|endoftext|>
-dictionary_entry_183 n. This example entry describes a reusable concept for phase one language model training.
+Achieve v. (-ving) 1 reach or attain, esp. By effort (achieved victory; achieved notoriety). 2 accomplish (a feat or task). [french achever: related to *chief]
 <|endoftext|>
-dictionary_entry_184 n. This example entry describes a reusable concept for phase one language model training.
+Achievement n. 1 something achieved. 2 act of achieving.
 <|endoftext|>
-dictionary_entry_185 n. This example entry describes a reusable concept for phase one language model training.
+Achilles heel n. Person's weak or vulnerable point. [achilles, greek hero in the iliad]
 <|endoftext|>
-dictionary_entry_186 n. This example entry describes a reusable concept for phase one language model training.
+Achilles tendon n. Tendon connecting the heel with the calf muscles.
 <|endoftext|>
-dictionary_entry_187 n. This example entry describes a reusable concept for phase one language model training.
+Achromatic adj. Optics 1 transmitting light without separation into constituent colours (achromatic lens). 2 without colour. achromatically adv. [french: related to *a-, *chrome]
 <|endoftext|>
-dictionary_entry_188 n. This example entry describes a reusable concept for phase one language model training.
+Achy adj. (-ier, -iest) full of or suffering from aches.
 <|endoftext|>
-dictionary_entry_189 n. This example entry describes a reusable concept for phase one language model training.
+Acid —n. 1 a any of a class of substances that liberate hydrogen ions in water, are usu. Sour and corrosive, turn litmus red, and have a ph of less than 7. B any compound or atom donating protons. 2 any sour substance. 3 slang the drug lsd. —adj. 1 sour. 2 biting, sharp (an acid wit). 3 chem. Having the essential properties of an acid. acidic adj. Acidify v. (-ies, -ied). Acidity n. Acidly adv. [latin aceo be sour]
 <|endoftext|>
-dictionary_entry_190 n. This example entry describes a reusable concept for phase one language model training.
+Acid house n. A type of synthesized music with a simple repetitive beat, often associated with hallucinogenic drugs.
 <|endoftext|>
-dictionary_entry_191 n. This example entry describes a reusable concept for phase one language model training.
+Acid rain n. Acid, esp. From industrial waste gases, falling with rain.
 <|endoftext|>
-dictionary_entry_192 n. This example entry describes a reusable concept for phase one language model training.
+Acid test n. Severe or conclusive test.
 <|endoftext|>
-dictionary_entry_193 n. This example entry describes a reusable concept for phase one language model training.
+Acidulous adj. Somewhat acid.
 <|endoftext|>
-dictionary_entry_194 n. This example entry describes a reusable concept for phase one language model training.
+Ack-ack colloq. —adj. Anti-aircraft. —n. Anti-aircraft gun etc. [formerly signallers' term for aa]
 <|endoftext|>
-dictionary_entry_195 n. This example entry describes a reusable concept for phase one language model training.
+Acknowledge v. (-ging) 1 recognize; accept the truth of (acknowledged its failure). 2 confirm the receipt of (a letter etc.). 3 a show that one has noticed (acknowledged my arrival with a grunt). B express appreciation of (a service etc.). 4 recognize the validity of, own (the acknowledged king). [from *ad-, *knowledge]
 <|endoftext|>
-dictionary_entry_196 n. This example entry describes a reusable concept for phase one language model training.
+Acknowledgement n. 1 act of acknowledging. 2 a thing given or done in gratitude. B letter confirming receipt of something. 3 (usu. In pl.) Author's statement of gratitude, prefacing a book.
 <|endoftext|>
-dictionary_entry_197 n. This example entry describes a reusable concept for phase one language model training.
+Acme n. Highest point (of achievement etc.). [greek]
 <|endoftext|>
-dictionary_entry_198 n. This example entry describes a reusable concept for phase one language model training.
+Acne n. Skin condition with red pimples. [latin]
 <|endoftext|>
-dictionary_entry_199 n. This example entry describes a reusable concept for phase one language model training.
+Acolyte n. 1 person assisting a priest. 2 assistant; beginner. [greek akolouthos follower]
 <|endoftext|>
-dictionary_entry_200 n. This example entry describes a reusable concept for phase one language model training.
+Aconite n. 1 any of various poisonous plants, esp. Monkshood. 2 drug from these. [greek akoniton]
 <|endoftext|>
-dictionary_entry_201 n. This example entry describes a reusable concept for phase one language model training.
+Acorn n. Fruit of the oak, with a smooth nut in a cuplike base. [old english]
 <|endoftext|>
-dictionary_entry_202 n. This example entry describes a reusable concept for phase one language model training.
+Acoustic adj. 1 of sound or the sense of hearing. 2 (of a musical instrument etc.) Without electrical amplification (acoustic guitar). acoustically adv. [greek akouo hear]
 <|endoftext|>
-dictionary_entry_203 n. This example entry describes a reusable concept for phase one language model training.
+Acoustics n.pl. 1 properties or qualities (of a room etc.) In transmitting sound. 2 (usu. As sing.) Science of sound.
 <|endoftext|>
-dictionary_entry_204 n. This example entry describes a reusable concept for phase one language model training.
+Acquaint v. (usu. Foll. By with) make aware of or familiar with (acquaint me with the facts). be acquainted with have personal knowledge of; know slightly. [latin: related to *ad-, *cognizance]
 <|endoftext|>
-dictionary_entry_205 n. This example entry describes a reusable concept for phase one language model training.
+Acquaintance n. 1 being acquainted. 2 person one knows slightly. acquaintanceship n. Acquiesce v. (-cing) 1 agree, esp. By default. 2 (foll. By in) accept (an arrangement etc.). acquiescence n. Acquiescent adj. [latin: related to *ad-, *quiet]
 <|endoftext|>
-dictionary_entry_206 n. This example entry describes a reusable concept for phase one language model training.
+Acquire v. (-ring) gain for oneself; come into possession of. [latin: related to *ad-, quaero quisit- seek]
 <|endoftext|>
-dictionary_entry_207 n. This example entry describes a reusable concept for phase one language model training.
+Acquired immune deficiency syndrome see *aids.
 <|endoftext|>
-dictionary_entry_208 n. This example entry describes a reusable concept for phase one language model training.
+Acquired taste n. 1 liking developed by experience. 2 object of this.
 <|endoftext|>
-dictionary_entry_209 n. This example entry describes a reusable concept for phase one language model training.
+Acquirement n. Thing acquired, esp. A mental attainment.
 <|endoftext|>
-dictionary_entry_210 n. This example entry describes a reusable concept for phase one language model training.
+Acquisition n. 1 thing acquired, esp. When useful. 2 acquiring or being acquired. [latin: related to *acquire]
 <|endoftext|>
-dictionary_entry_211 n. This example entry describes a reusable concept for phase one language model training.
+Acquisitive adj. Keen to acquire things.
 <|endoftext|>
-dictionary_entry_212 n. This example entry describes a reusable concept for phase one language model training.
+Acquit v. (-tt-) 1 (often foll. By of) declare not guilty. 2 refl. A behave or perform in a specified way (acquitted herself well). B (foll. By of) discharge (a duty or responsibility). acquittal n. [latin: related to *ad-, *quit]
 <|endoftext|>
-dictionary_entry_213 n. This example entry describes a reusable concept for phase one language model training.
+Acre n. Measure of land, 4,840 sq. Yds., 0.405 ha. [old english]
 <|endoftext|>
-dictionary_entry_214 n. This example entry describes a reusable concept for phase one language model training.
+Acreage n. A number of acres; extent of land.
 <|endoftext|>
-dictionary_entry_215 n. This example entry describes a reusable concept for phase one language model training.
+Acrid adj. (-er, -est) bitterly pungent. acridity n. [latin acer keen, pungent]
 <|endoftext|>
-dictionary_entry_216 n. This example entry describes a reusable concept for phase one language model training.
+Acrimonious adj. Bitter in manner or temper. acrimony n.
 <|endoftext|>
-dictionary_entry_217 n. This example entry describes a reusable concept for phase one language model training.
+Acrobat n. Entertainer performing gymnastic feats. acrobatic adj. Acrobatically adv. [greek akrobates from akron summit, baino walk]
 <|endoftext|>
-dictionary_entry_218 n. This example entry describes a reusable concept for phase one language model training.
+Acrobatics n.pl. 1 acrobatic feats. 2 (as sing.) Art of performing these.
 <|endoftext|>
-dictionary_entry_219 n. This example entry describes a reusable concept for phase one language model training.
+Acronym n. Word formed from the initial letters of other words (e.g. Laser, nato). [greek akron end, onoma name]
 <|endoftext|>
-dictionary_entry_220 n. This example entry describes a reusable concept for phase one language model training.
+Acropolis n. Citadel of an ancient greek city. [greek akron summit, polis city]
 <|endoftext|>
-dictionary_entry_221 n. This example entry describes a reusable concept for phase one language model training.
+Across —prep. 1 to or on the other side of (across the river). 2 from one side to another side of (spread across the floor). 3 at or forming an angle with (a stripe across the flag). —adv. 1 to or on the other side (ran across). 2 from one side to another (stretched across). across the board applying to all. [french à, en, croix: related to *cross]
 <|endoftext|>
-dictionary_entry_222 n. This example entry describes a reusable concept for phase one language model training.
+Acrostic n. Poem etc. In which certain letters (usu. The first and last in each line) form a word or words. [greek akron end, stikhos row]
 <|endoftext|>
-dictionary_entry_223 n. This example entry describes a reusable concept for phase one language model training.
+Acrylic —adj. Of synthetic material made from acrylic acid. —n. Acrylic fibre or fabric. [latin acer pungent, oleo to smell]
 <|endoftext|>
-dictionary_entry_224 n. This example entry describes a reusable concept for phase one language model training.
+Acrylic acid n. A pungent liquid organic acid.
 <|endoftext|>
-dictionary_entry_225 n. This example entry describes a reusable concept for phase one language model training.
+Act —n. 1 something done; a deed. 2 process of doing (caught in the act). 3 item of entertainment. 4 pretence (all an act). 5 main division of a play etc. 6 a decree of a legislative body. B document attesting a legal transaction. —v. 1 behave (acted wisely). 2 perform an action or function; take action (act as referee; brakes failed to act; he acted quickly). 3 (also foll. By on) have an effect (alcohol acts on the brain). 4 a perform a part in a play, film, etc. B pretend. 5 a play the part of (acted othello; acts the fool). B perform (a play etc.). C portray (an incident) by actions. act for be the (esp. Legal) representative of. Act of god natural event, e.g. An earthquake. Act up colloq. Misbehave; give trouble (car is acting up). Get one's act together slang become properly organized; prepare. Put on an act colloq. Make a pretence. [latin ago act- do]
 <|endoftext|>
-dictionary_entry_226 n. This example entry describes a reusable concept for phase one language model training.
+Acting —n. Art or occupation of an actor. —attrib. Adj. Serving temporarily or as a substitute (acting manager).
 <|endoftext|>
-dictionary_entry_227 n. This example entry describes a reusable concept for phase one language model training.
+Actinism n. Property of short-wave radiation that produces chemical changes, as in photography. [greek aktis ray]
 <|endoftext|>
-dictionary_entry_228 n. This example entry describes a reusable concept for phase one language model training.
+Actinium n. Chem. Radioactive metallic element found in pitchblende. [as *actinism]
 <|endoftext|>
-dictionary_entry_229 n. This example entry describes a reusable concept for phase one language model training.
+Action n. 1 process of doing or acting (demanded action). 2 forcefulness or energy. 3 exertion of energy or influence (action of acid on metal). 4 deed, act (not aware of his actions). 5 (the action) a series of events in a story, play, etc. B slang exciting activity (missed the action). 6 battle, fighting (killed in action). 7 a mechanism of an instrument. B style of movement of an animal or human. 8 lawsuit. out of action not working. [latin: related to *act] Actionable adj. Giving cause for legal action.
 <|endoftext|>
-dictionary_entry_230 n. This example entry describes a reusable concept for phase one language model training.
-<|endoftext|>
-dictionary_entry_231 n. This example entry describes a reusable concept for phase one language model training.
-<|endoftext|>
-dictionary_entry_232 n. This example entry describes a reusable concept for phase one language model training.
-<|endoftext|>
-dictionary_entry_233 n. This example entry describes a reusable concept for phase one language model training.
-<|endoftext|>
-dictionary_entry_234 n. This example entry describes a reusable concept for phase one language model training.
-<|endoftext|>
-dictionary_entry_235 n. This example entry describes a reusable concept for phase one language model training.
-<|endoftext|>
-dictionary_entry_236 n. This example entry describes a reusable concept for phase one language model training.
-<|endoftext|>
-dictionary_entry_237 n. This example entry describes a reusable concept for phase one language model training.
-<|endoftext|>
-dictionary_entry_238 n. This example entry describes a reusable concept for phase one language model training.
-<|endoftext|>
-dictionary_entry_239 n. This example entry describes a reusable concept for phase one language model training.
-<|endoftext|>
-dictionary_entry_240 n. This example entry describes a reusable concept for phase one language model training.
+Action-packed adj. Full of action or excitement.
 <|endoftext|>

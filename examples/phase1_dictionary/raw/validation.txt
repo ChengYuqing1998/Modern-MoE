@@ -1,251 +1,500 @@
-dictionary n. A reference work that explains words, meanings, usage, or origin.
+Action point n. Proposal for action.
 <|endoftext|>
-validation_entry_001 n. This held-out example describes a simple dictionary concept for validation.
+Action replay n. Playback of part of a television broadcast, esp. A sporting event, often in slow motion.
 <|endoftext|>
-validation_entry_002 n. This held-out example describes a simple dictionary concept for validation.
+Action stations n.pl. Positions taken up by troops etc. Ready for battle.
 <|endoftext|>
-validation_entry_003 n. This held-out example describes a simple dictionary concept for validation.
+Activate v. (-ting) 1 make active. 2 chem. Cause reaction in. 3 make radioactive.
 <|endoftext|>
-validation_entry_004 n. This held-out example describes a simple dictionary concept for validation.
+Active —adj. 1 marked by action; energetic; diligent (an active life). 2 working, operative (active volcano). 3 not merely passive or inert; positive (active support; active ingredients). 4 radioactive. 5 gram. Designating the form of a verb whose subject performs the action (e.g. Saw in he saw a film). —n. Gram. Active form or voice of a verb. actively adv. [latin: related to *act]
 <|endoftext|>
-validation_entry_005 n. This held-out example describes a simple dictionary concept for validation.
+Active service n. Military service in wartime.
 <|endoftext|>
-validation_entry_006 n. This held-out example describes a simple dictionary concept for validation.
+Activism n. Policy of vigorous action, esp. For a political cause. activist n.
 <|endoftext|>
-validation_entry_007 n. This held-out example describes a simple dictionary concept for validation.
+Activity n. (pl. -ies) 1 being active; busy or energetic action. 2 (often in pl.) Occupation or pursuit (outdoor activities). 3 = *radioactivity.
 <|endoftext|>
-validation_entry_008 n. This held-out example describes a simple dictionary concept for validation.
+Actor n. Person who acts in a play, film, etc. [latin: related to *act]
 <|endoftext|>
-validation_entry_009 n. This held-out example describes a simple dictionary concept for validation.
+Actress n. Female actor.
 <|endoftext|>
-validation_entry_010 n. This held-out example describes a simple dictionary concept for validation.
+Actual adj. (usu. Attrib.) 1 existing in fact; real. 2 current. [latin: related to *act]
 <|endoftext|>
-validation_entry_011 n. This held-out example describes a simple dictionary concept for validation.
+Actuality n. (pl. -ies) 1 reality. 2 (in pl.) Existing conditions.
 <|endoftext|>
-validation_entry_012 n. This held-out example describes a simple dictionary concept for validation.
+Actually adv. 1 as a fact, really (not actually very rich). 2 strange as it may seem (he actually refused!).
 <|endoftext|>
-validation_entry_013 n. This held-out example describes a simple dictionary concept for validation.
+Actuary n. (pl. -ies) statistician, esp. One calculating insurance risks and premiums. actuarial adj. [latin actuarius bookkeeper]
 <|endoftext|>
-validation_entry_014 n. This held-out example describes a simple dictionary concept for validation.
+Actuate v. (-ting) 1 cause (a machine etc.) To move or function. 2 cause (a person) to act. [latin]
 <|endoftext|>
-validation_entry_015 n. This held-out example describes a simple dictionary concept for validation.
+Acuity n. Sharpness, acuteness. [medieval latin: related to *acute]
 <|endoftext|>
-validation_entry_016 n. This held-out example describes a simple dictionary concept for validation.
+Acumen n. Keen insight or discernment. [latin, = *acute thing]
 <|endoftext|>
-validation_entry_017 n. This held-out example describes a simple dictionary concept for validation.
+Acupuncture n. Medical treatment using needles in parts of the body. acupuncturist n. [latin acu with needle]
 <|endoftext|>
-validation_entry_018 n. This held-out example describes a simple dictionary concept for validation.
+Acute —adj. (acuter, acutest) 1 serious, severe (acute hardship). 2 (of senses etc.) Keen, penetrating. 3 shrewd. 4 (of a disease) coming quickly to a crisis. 5 (of an angle) less than 90°. 6 (of a sound) high, shrill. —n. = *acute accent. acutely adv. [latin acutus pointed]
 <|endoftext|>
-validation_entry_019 n. This held-out example describes a simple dictionary concept for validation.
+Acute accent n. Diacritical mark (´) placed over certain letters in french etc., esp. To show pronunciation.
 <|endoftext|>
-validation_entry_020 n. This held-out example describes a simple dictionary concept for validation.
+-acy suffix forming nouns of state or quality (accuracy; piracy), or an instance of it (conspiracy; fallacy). [french -acie, latin -acia, -atia, greek -ateia]
 <|endoftext|>
-validation_entry_021 n. This held-out example describes a simple dictionary concept for validation.
+Ad abbr. Of the christian era. [*anno domini]
 <|endoftext|>
-validation_entry_022 n. This held-out example describes a simple dictionary concept for validation.
+Ad n. Colloq. Advertisement. [abbreviation]
 <|endoftext|>
-validation_entry_023 n. This held-out example describes a simple dictionary concept for validation.
+Ad- prefix (altered or assimilated before some letters) implying motion or direction to, reduction or change into, addition, adherence, increase, or intensification. [latin]
 <|endoftext|>
-validation_entry_024 n. This held-out example describes a simple dictionary concept for validation.
+Adage n. Traditional maxim, proverb. [french from latin]
 <|endoftext|>
-validation_entry_025 n. This held-out example describes a simple dictionary concept for validation.
+Adagio mus. —adv. & adj. In slow time. —n. (pl. -s) such a movement or passage. [italian]
 <|endoftext|>
-validation_entry_026 n. This held-out example describes a simple dictionary concept for validation.
+Adam n. The first man. not know a person from adam be unable to recognize a person. [hebrew, = man]
 <|endoftext|>
-validation_entry_027 n. This held-out example describes a simple dictionary concept for validation.
+Adamant adj. Stubbornly resolute; unyielding. adamantly adv. [greek adamas adamant- untameable]
 <|endoftext|>
-validation_entry_028 n. This held-out example describes a simple dictionary concept for validation.
+Adam's apple n. Projection of cartilage at the front of the neck.
 <|endoftext|>
-validation_entry_029 n. This held-out example describes a simple dictionary concept for validation.
+Adapt v. 1 a (foll. By to) fit, adjust (one thing to another). B (foll. By to, for) make suitable for a purpose. C modify (esp. A text for broadcasting etc.). 2 (also refl., usu. Foll. By to) adjust to new conditions. adaptable adj. Adaptation n. [latin: related to *ad-, *apt] Adaptor n. 1 device for making equipment compatible. 2 device for connecting several electrical plugs to one socket.
 <|endoftext|>
-validation_entry_030 n. This held-out example describes a simple dictionary concept for validation.
+Add v. 1 join (one thing to another) as an increase or supplement. 2 put together (numbers) to find their total. 3 say further. add in include. Add up 1 find the total of. 2 (foll. By to) amount to. 3 colloq. Make sense. [latin addo]
 <|endoftext|>
-validation_entry_031 n. This held-out example describes a simple dictionary concept for validation.
+Addendum n. (pl. -da) 1 thing to be added. 2 material added at the end of a book.
 <|endoftext|>
-validation_entry_032 n. This held-out example describes a simple dictionary concept for validation.
+Adder n. Small venomous snake, esp. The common viper. [old english, originally nadder]
 <|endoftext|>
-validation_entry_033 n. This held-out example describes a simple dictionary concept for validation.
+Addict n. 1 person addicted, esp. To a drug. 2 colloq. Devotee (film addict). [latin: related to *ad-, dico say]
 <|endoftext|>
-validation_entry_034 n. This held-out example describes a simple dictionary concept for validation.
+Addicted adj. 1 (usu. Foll. By to) dependent on a drug etc. As a habit. 2 devoted to an interest. addiction n.
 <|endoftext|>
-validation_entry_035 n. This held-out example describes a simple dictionary concept for validation.
+Addictive adj. Causing addiction.
 <|endoftext|>
-validation_entry_036 n. This held-out example describes a simple dictionary concept for validation.
+Addition n. 1 adding. 2 person or thing added. in addition (often foll. By to) also, as well (as). [latin: related to *add]
 <|endoftext|>
-validation_entry_037 n. This held-out example describes a simple dictionary concept for validation.
+Additional adj. Added, extra, supplementary. additionally adv.
 <|endoftext|>
-validation_entry_038 n. This held-out example describes a simple dictionary concept for validation.
+Additive n. Substance added to improve another, esp. To colour, flavour, or preserve food. [latin: related to *add]
 <|endoftext|>
-validation_entry_039 n. This held-out example describes a simple dictionary concept for validation.
+Addle v. (-ling) 1 muddle, confuse. 2 (usu. As addled adj.) (of an egg) become rotten. [old english, = filth]
 <|endoftext|>
-validation_entry_040 n. This held-out example describes a simple dictionary concept for validation.
+Address —n. 1 a place where a person lives or an organization is situated. B particulars of this, esp. For postal purposes. C computing location of an item of stored information. 2 discourse to an audience. —v. 1 write postal directions on (an envelope etc.). 2 direct (remarks etc.). 3 speak or write to, esp. Formally. 4 direct one's attention to. 5 golf take aim at (the ball). address oneself to 1 speak or write to. 2 attend to. [french: related to *ad-, *direct]
 <|endoftext|>
-validation_entry_041 n. This held-out example describes a simple dictionary concept for validation.
+Addressee n. Person to whom a letter etc. Is addressed.
 <|endoftext|>
-validation_entry_042 n. This held-out example describes a simple dictionary concept for validation.
+Adduce v. (-cing) cite as an instance or as proof or evidence. adducible adj. [latin: related to *ad-, duco lead]
 <|endoftext|>
-validation_entry_043 n. This held-out example describes a simple dictionary concept for validation.
+Adenoids n.pl. Area of enlarged lymphatic tissue between the nose and the throat, often hindering breathing in the young. adenoidal adj. [greek aden gland]
 <|endoftext|>
-validation_entry_044 n. This held-out example describes a simple dictionary concept for validation.
+Adept —adj. (foll. By at, in) skilful. —n. Adept person. [latin adipiscor adept- attain]
 <|endoftext|>
-validation_entry_045 n. This held-out example describes a simple dictionary concept for validation.
+Adequate adj. Sufficient, satisfactory. adequacy n. Adequately adv. [latin: related to *ad-, *equate]
 <|endoftext|>
-validation_entry_046 n. This held-out example describes a simple dictionary concept for validation.
+À deux adv. & adj. For or between two. [french]
 <|endoftext|>
-validation_entry_047 n. This held-out example describes a simple dictionary concept for validation.
+Adhere v. (-ring) 1 (usu. Foll. By to) stick fast to a substance etc. 2 (foll. By to) behave according to (a rule, undertaking, etc.). 3 (foll. By to) give allegiance. [latin haereo stick]
 <|endoftext|>
-validation_entry_048 n. This held-out example describes a simple dictionary concept for validation.
+Adherent —n. Supporter. —adj. Sticking, adhering. adherence n.
 <|endoftext|>
-validation_entry_049 n. This held-out example describes a simple dictionary concept for validation.
+Adhesion n. 1 adhering. 2 unnatural union of body tissues due to inflammation.
 <|endoftext|>
-validation_entry_050 n. This held-out example describes a simple dictionary concept for validation.
+Adhesive —adj. Sticky, causing adhesion. —n. Adhesive substance. adhesiveness n.
 <|endoftext|>
-validation_entry_051 n. This held-out example describes a simple dictionary concept for validation.
+Ad hoc adv. & adj. For one particular occasion or use. [latin]
 <|endoftext|>
-validation_entry_052 n. This held-out example describes a simple dictionary concept for validation.
+Adieu int. Goodbye. [french, = to god]
 <|endoftext|>
-validation_entry_053 n. This held-out example describes a simple dictionary concept for validation.
+Ad infinitum adv. Without limit; for ever. [latin]
 <|endoftext|>
-validation_entry_054 n. This held-out example describes a simple dictionary concept for validation.
+Adipose adj. Of fat; fatty (adipose tissue). adiposity n. [latin adeps fat]
 <|endoftext|>
-validation_entry_055 n. This held-out example describes a simple dictionary concept for validation.
+Adjacent adj. (often foll. By to) lying near; adjoining. adjacency n. [latin jaceo lie]
 <|endoftext|>
-validation_entry_056 n. This held-out example describes a simple dictionary concept for validation.
+Adjective n. Word used to describe or modify a noun or pronoun. adjectival adj. [latin jaceo lie]
 <|endoftext|>
-validation_entry_057 n. This held-out example describes a simple dictionary concept for validation.
+Adjoin v. Be next to and joined with. [latin jungo join]
 <|endoftext|>
-validation_entry_058 n. This held-out example describes a simple dictionary concept for validation.
+Adjourn v. 1 put off, postpone; break off (a meeting etc.) Temporarily. 2 (of a meeting) break and disperse or (foll. By to) transfer to another place (adjourned to the pub). adjournment n. [latin: related to *ad-, diurnum day]
 <|endoftext|>
-validation_entry_059 n. This held-out example describes a simple dictionary concept for validation.
+Adjudge v. (-ging) 1 pronounce judgement on (a matter). 2 pronounce or award judicially. adjudgement n. (also adjudgment). [latin judex judge] Adjudicate v. (-ting) 1 act as judge in a competition, court, etc. 2 adjudge. adjudication n. Adjudicative adj. Adjudicator n.
 <|endoftext|>
-validation_entry_060 n. This held-out example describes a simple dictionary concept for validation.
+Adjunct n. 1 (foll. By to, of) subordinate or incidental thing. 2 gram. Word or phrase used to explain or amplify the predicate, subject, etc. [latin: related to *adjoin]
 <|endoftext|>
-validation_entry_061 n. This held-out example describes a simple dictionary concept for validation.
+Adjure v. (-ring) (usu. Foll. By to + infin.) Beg or command. adjuration n. [latin adjuro put to oath: related to *jury]
 <|endoftext|>
-validation_entry_062 n. This held-out example describes a simple dictionary concept for validation.
+Adjust v. 1 order or position; regulate; arrange. 2 (usu. Foll. By to) become or make suited; adapt. 3 harmonize (discrepancies). 4 assess (loss or damages). adjustable adj. Adjustment n. [latin juxta near]
 <|endoftext|>
-validation_entry_063 n. This held-out example describes a simple dictionary concept for validation.
+Adjutant n. 1 a army officer assisting a superior in administrative duties. B assistant. 2 (in full adjutant bird) giant indian stork. [latin: related to *ad-, juvo jut- help]
 <|endoftext|>
-validation_entry_064 n. This held-out example describes a simple dictionary concept for validation.
+Ad lib —v. (-bb-) improvise. —adj. Improvised. —adv. As one pleases, to any desired extent. [abbreviation of latin ad libitum according to pleasure]
 <|endoftext|>
-validation_entry_065 n. This held-out example describes a simple dictionary concept for validation.
+Admin n. Colloq. Administration. [abbreviation]
 <|endoftext|>
-validation_entry_066 n. This held-out example describes a simple dictionary concept for validation.
+Administer v. 1 manage (business affairs etc.). 2 a deliver or dispense, esp. Formally (a punishment, sacrament, etc.). B (usu. Foll. By to) direct the taking of (an oath). [latin: related to *ad-, *minister]
 <|endoftext|>
-validation_entry_067 n. This held-out example describes a simple dictionary concept for validation.
+Administrate v. (-ting) administer (esp. Business affairs); act as an administrator.
 <|endoftext|>
-validation_entry_068 n. This held-out example describes a simple dictionary concept for validation.
+Administration n. 1 administering, esp. Public affairs. 2 government in power.
 <|endoftext|>
-validation_entry_069 n. This held-out example describes a simple dictionary concept for validation.
+Administrative adj. Of the management of affairs.
 <|endoftext|>
-validation_entry_070 n. This held-out example describes a simple dictionary concept for validation.
+Administrator n. Manager of a business, public affairs, or a person's estate.
 <|endoftext|>
-validation_entry_071 n. This held-out example describes a simple dictionary concept for validation.
+Admirable adj. Deserving admiration; excellent. admirably adv. [latin: related to *admire]
 <|endoftext|>
-validation_entry_072 n. This held-out example describes a simple dictionary concept for validation.
+Admiral n. 1 a commander-in-chief of a navy. B high-ranking naval officer, commander. 2 any of various butterflies. [arabic: related to *amir]
 <|endoftext|>
-validation_entry_073 n. This held-out example describes a simple dictionary concept for validation.
+Admiralty n. (pl. -ies) (in full admiralty board) hist. Committee superintending the royal navy.
 <|endoftext|>
-validation_entry_074 n. This held-out example describes a simple dictionary concept for validation.
+Admiration n. 1 respect; warm approval or pleasure. 2 object of this.
 <|endoftext|>
-validation_entry_075 n. This held-out example describes a simple dictionary concept for validation.
+Admire v. (-ring) 1 regard with approval, respect, or satisfaction. 2 express admiration of. admirer n. Admiring adj. Admirlingly adv. [latin: related to *ad-, miror wonder at]
 <|endoftext|>
-validation_entry_076 n. This held-out example describes a simple dictionary concept for validation.
+Admissible adj. 1 (of an idea etc.) Worth accepting or considering. 2 law allowable as evidence. [latin: related to *admit]
 <|endoftext|>
-validation_entry_077 n. This held-out example describes a simple dictionary concept for validation.
+Admission n. 1 acknowledgement (admission of error). 2 a process or right of entering. B charge for this (admission is £5).
 <|endoftext|>
-validation_entry_078 n. This held-out example describes a simple dictionary concept for validation.
+Admit v. (-tt-) 1 (often foll. By to be, or that + clause) acknowledge; recognize as true. 2 (foll. By to) confess to (a deed, fault, etc.). 3 allow (a person) entrance, access, etc. 4 take (a patient) into hospital. 5 (of an enclosed space) accommodate. 6 (foll. By of) allow as possible. [latin mitto miss- send]
 <|endoftext|>
-validation_entry_079 n. This held-out example describes a simple dictionary concept for validation.
+Admittance n. Admitting or being admitted, usu. To a place.
 <|endoftext|>
-validation_entry_080 n. This held-out example describes a simple dictionary concept for validation.
+Admittedly adv. As must be admitted.
 <|endoftext|>
-validation_entry_081 n. This held-out example describes a simple dictionary concept for validation.
+Admixture n. 1 thing added, esp. A minor ingredient. 2 adding of this.
 <|endoftext|>
-validation_entry_082 n. This held-out example describes a simple dictionary concept for validation.
+Admonish v. 1 reprove. 2 urge, advise. 3 (foll. By of) warn. admonishment n. Admonition n. Admonitory adj. [latin moneo warn]
 <|endoftext|>
-validation_entry_083 n. This held-out example describes a simple dictionary concept for validation.
+Ad nauseam adv. Excessively; disgustingly. [latin, = to sickness]
 <|endoftext|>
-validation_entry_084 n. This held-out example describes a simple dictionary concept for validation.
+Ado n. Fuss, busy activity; trouble. [from *at, *do1: originally in much ado = much to do]
 <|endoftext|>
-validation_entry_085 n. This held-out example describes a simple dictionary concept for validation.
+Adobe n. 1 sun-dried brick. 2 clay for making these. [spanish]
 <|endoftext|>
-validation_entry_086 n. This held-out example describes a simple dictionary concept for validation.
+Adolescent —adj. Between childhood and adulthood. —n. Adolescent person. adolescence n. [latin adolesco grow up]
 <|endoftext|>
-validation_entry_087 n. This held-out example describes a simple dictionary concept for validation.
+Adonis n. Handsome young man. [latin, name of a youth loved by venus]
 <|endoftext|>
-validation_entry_088 n. This held-out example describes a simple dictionary concept for validation.
+Adopt v. 1 legally take (a person) into a relationship, esp. Another's child as one's own. 2 choose (a course of action etc.). 3 take over (another's idea etc.). 4 choose as a candidate for office. 5 accept responsibility for the maintenance of (a road etc.). 6 accept or approve (a report, accounts, etc.). adoption n. [latin: related to *ad-, *opt] Adoptive adj. Because of adoption (adoptive son). [latin: related to *adopt]
 <|endoftext|>
-validation_entry_089 n. This held-out example describes a simple dictionary concept for validation.
+Adorable adj. 1 deserving adoration. 2 colloq. Delightful, charming.
 <|endoftext|>
-validation_entry_090 n. This held-out example describes a simple dictionary concept for validation.
+Adore v. (-ring) 1 love intensely. 2 worship as divine. 3 colloq. Like very much. adoration n. Adorer n. [latin adoro worship]
 <|endoftext|>
-validation_entry_091 n. This held-out example describes a simple dictionary concept for validation.
+Adorn v. Add beauty to; decorate. adornment n. [latin: related to *ad-, orno decorate]
 <|endoftext|>
-validation_entry_092 n. This held-out example describes a simple dictionary concept for validation.
+Adrenal —adj. 1 at or near the kidneys. 2 of the adrenal glands. —n. (in full adrenal gland) either of two ductless glands above the kidneys, secreting adrenalin. [from *ad-, *renal]
 <|endoftext|>
-validation_entry_093 n. This held-out example describes a simple dictionary concept for validation.
+Adrenalin n. (also adrenaline) 1 stimulative hormone secreted by the adrenal glands. 2 this extracted or synthesized for medicinal use.
 <|endoftext|>
-validation_entry_094 n. This held-out example describes a simple dictionary concept for validation.
+Adrift adv. & predic.adj. 1 drifting. 2 powerless; aimless. 3 colloq. A unfastened. B out of order, wrong (plans went adrift).
 <|endoftext|>
-validation_entry_095 n. This held-out example describes a simple dictionary concept for validation.
+Adroit adj. Dexterous, skilful. [french à droit according to right]
 <|endoftext|>
-validation_entry_096 n. This held-out example describes a simple dictionary concept for validation.
+Adsorb v. (usu. Of a solid) hold (molecules of a gas or liquid etc.) To its surface, forming a thin film. adsorbent adj. & n. Adsorption n. [from *ad-, *absorb]
 <|endoftext|>
-validation_entry_097 n. This held-out example describes a simple dictionary concept for validation.
+Adulation n. Obsequious flattery. [latin adulor fawn on]
 <|endoftext|>
-validation_entry_098 n. This held-out example describes a simple dictionary concept for validation.
+Adult —adj. 1 mature, grown-up. 2 (attrib.) Of or for adults (adult education). —n. Adult person. adulthood n. [latin adolesco adultus grow up]
 <|endoftext|>
-validation_entry_099 n. This held-out example describes a simple dictionary concept for validation.
+Adulterate v. (-ting) debase (esp. Foods) by adding other substances. adulterant adj. & n. Adulteration n. [latin adultero corrupt]
 <|endoftext|>
-validation_entry_100 n. This held-out example describes a simple dictionary concept for validation.
+Adulterer n. (fem. Adulteress) person who commits adultery.
 <|endoftext|>
-validation_entry_101 n. This held-out example describes a simple dictionary concept for validation.
+Adultery n. Voluntary sexual intercourse between a married person and a person other than his or her spouse. adulterous adj.
 <|endoftext|>
-validation_entry_102 n. This held-out example describes a simple dictionary concept for validation.
+Adumbrate v. (-ting) 1 indicate faintly or in outline. 2 foreshadow. 3 overshadow. adumbration n. [latin: related to *ad-, umbra shade]
 <|endoftext|>
-validation_entry_103 n. This held-out example describes a simple dictionary concept for validation.
+Advance —v. (-cing) 1 move or put forward; progress. 2 pay or lend (money) beforehand. 3 promote (a person, cause, etc.). 4 present (a suggestion etc.). 5 (as advanced adj.) A well ahead. B socially progressive. —n. 1 going forward; progress. 2 prepayment; loan. 3 (in pl.) Amorous approaches. 4 rise in price. —attrib. Adj. Done or supplied beforehand (advance warning). advance on approach threateningly. In advance ahead in place or time. [latin: related to *ab-, ante before]
 <|endoftext|>
-validation_entry_104 n. This held-out example describes a simple dictionary concept for validation.
+Advanced level n. High level of gce examination.
 <|endoftext|>
-validation_entry_105 n. This held-out example describes a simple dictionary concept for validation.
+Advancement n. Promotion of a person, cause, or plan.
 <|endoftext|>
-validation_entry_106 n. This held-out example describes a simple dictionary concept for validation.
+Advantage —n. 1 beneficial feature. 2 benefit, profit. 3 (often foll. By over) superiority. 4 (in tennis) the next point after deuce. —v. (-ging) benefit, favour. take advantage of 1 make good use of. 2 exploit, esp. Unfairly. 3 euphem. Seduce. advantageous adj. [french: related to *advance]
 <|endoftext|>
-validation_entry_107 n. This held-out example describes a simple dictionary concept for validation.
+Advent n. 1 season before christmas. 2 coming of christ. 3 (advent) important arrival. [latin adventus from venio come]
 <|endoftext|>
-validation_entry_108 n. This held-out example describes a simple dictionary concept for validation.
+Adventist n. Member of a christian sect believing in the imminent second coming of christ.
 <|endoftext|>
-validation_entry_109 n. This held-out example describes a simple dictionary concept for validation.
+Adventitious adj. 1 accidental, casual. 2 added from outside. 3 biol. Formed accidentally or under unusual conditions. [latin: related to *advent]
 <|endoftext|>
-validation_entry_110 n. This held-out example describes a simple dictionary concept for validation.
+Adventure —n. 1 unusual and exciting experience. 2 enterprise (spirit of adventure). —v. (-ring) dare, venture; engage in adventure. [latin: related to *advent]
 <|endoftext|>
-validation_entry_111 n. This held-out example describes a simple dictionary concept for validation.
+Adventure playground n. Playground with climbing-frames, building blocks, etc.
 <|endoftext|>
-validation_entry_112 n. This held-out example describes a simple dictionary concept for validation.
+Adventurer n. (fem. Adventuress) 1 person who seeks adventure, esp. For personal gain or enjoyment. 2 financial speculator.
 <|endoftext|>
-validation_entry_113 n. This held-out example describes a simple dictionary concept for validation.
+Adventurous adj. Venturesome, enterprising. Adverb n. Word indicating manner, degree, circumstance, etc., used to modify an adjective, verb, or other adverb (e.g. Gently, quite, then). adverbial adj. [latin: related to *ad-, verbum word, *verb]
 <|endoftext|>
-validation_entry_114 n. This held-out example describes a simple dictionary concept for validation.
+Adversary n. (pl. -ies) enemy, opponent.
 <|endoftext|>
-validation_entry_115 n. This held-out example describes a simple dictionary concept for validation.
+Adverse adj. Unfavourable; harmful. adversely adv. [latin: related to *ad-, verto vers- turn]
 <|endoftext|>
-validation_entry_116 n. This held-out example describes a simple dictionary concept for validation.
+Adversity n. Misfortune, distress.
 <|endoftext|>
-validation_entry_117 n. This held-out example describes a simple dictionary concept for validation.
+Advert n. Colloq. Advertisement. [abbreviation]
 <|endoftext|>
-validation_entry_118 n. This held-out example describes a simple dictionary concept for validation.
+Advertise v. (-sing) 1 promote (goods or services) publicly to increase sales. 2 make generally known. 3 (often foll. By for) seek by a notice in a newspaper etc. To buy, employ, sell, etc. [french avertir: related to *adverse]
 <|endoftext|>
-validation_entry_119 n. This held-out example describes a simple dictionary concept for validation.
+Advertisement n. 1 public announcement, esp. Of goods etc. For sale or wanted, vacancies, etc. 2 advertising. [french avertissement: related to *adverse]
 <|endoftext|>
-validation_entry_120 n. This held-out example describes a simple dictionary concept for validation.
+Advice n. 1 recommendation on how to act. 2 information given; news. 3 formal notice of a transaction.
 <|endoftext|>
-example n. A particular instance used to explain or demonstrate an idea.
+Advisable adj. To be recommended, expedient. advisability n.
 <|endoftext|>
-数据 n. 可以被记录、处理和分析的信息或符号。
+Advise v. (-sing) 1 (also absol.) Give advice to. 2 recommend (advised me to rest). 3 (usu. Foll. By of, or that + clause) inform. [latin: related to *ad-, video vis- see]
 <|endoftext|>
-样本 n. 从总体中选取、用于观察或训练的一个对象或一组对象。
+Advisedly adv. After due consideration; deliberately.
 <|endoftext|>
-预测 n. 根据已有信息推断未来结果或未知结果。
+Adviser n. (also advisor) person who advises, esp. Officially.
 <|endoftext|>
+Usage the variant advisor is fairly common, but is considered incorrect by many people.
+<|endoftext|>
+Advisory adj. Giving advice (advisory body).
+<|endoftext|>
+Advocaat n. Liqueur of eggs, sugar, and brandy. [dutch, = *advocate]
+<|endoftext|>
+Advocacy n. Support or argument for a cause, policy, etc.
+<|endoftext|>
+Advocate —n. 1 (foll. By of) person who supports or speaks in favour. 2 person who pleads for another, esp. In a lawcourt. —v. (-ting) recommend by argument. [latin: related to *ad-, voco call]
+<|endoftext|>
+Adz n. (brit adze) tool like an axe, with an arched blade at right angles to the handle. [old english]
+<|endoftext|>
+Adze n. (us adz) tool like an axe, with an arched blade at right angles to the handle. [old english]
+<|endoftext|>
+Aegis n. Protection; support. [greek aigis shield of zeus or athene]
+<|endoftext|>
+Aeolian harp n. Stringed instrument or toy sounding when the wind passes through it. [latin aeolus wind-god, from greek]
+<|endoftext|>
+Aeon n. (also eon) 1 long or indefinite period. 2 an age. [latin from greek]
+<|endoftext|>
+Aerate v. (-ting) 1 charge (a liquid) with carbon dioxide. 2 expose to air. aeration n. [latin aer *air]
+<|endoftext|>
+Aerial —n. Device for transmitting or receiving radio waves. —adj. 1 by or from the air; involving aircraft (aerial attack). 2 existing in the air. 3 of or like air. [greek: related to *air]
+<|endoftext|>
+Aero- comb. Form air; aircraft. [greek aero- from aer air]
+<|endoftext|>
+Aerobatics n.pl. 1 spectacular flying of aircraft, esp. To entertain. 2 (as sing.) Performance of these. [from *aero-, after *acrobatics]
+<|endoftext|>
+Aerobics n.pl. Vigorous exercises designed to increase oxygen intake. aerobic adj. [from *aero-, greek bios life]
+<|endoftext|>
+Aerodrome n. Small airport or airfield. [from *aero-, greek dromos course]
+<|endoftext|>
+Aerodynamics n.pl. (usu. Treated as sing.) Dynamics of solid bodies moving through air. aerodynamic adj.
+<|endoftext|>
+Aerofoil n. Structure with curved surfaces (e.g. A wing, fin, or tailplane) designed to give lift in flight.
+<|endoftext|>
+Aeronautics n.pl. (usu. Treated as sing.) Science or practice of motion in the air. aeronautic adj. Aeronautical adj. [from *aero-, *nautical]
+<|endoftext|>
+Aeroplane n. Powered heavier-than-air flying vehicle with fixed wings. [french: related to *aero-, *plane1]
+<|endoftext|>
+Aerosol n. 1 pressurized container releasing a substance as a fine spray. 2 system of minute particles suspended in gas (e.g. Fog or smoke). [from *aero-, *solution]
+<|endoftext|>
+Aerospace n. 1 earth's atmosphere and outer space. 2 aviation in this.
+<|endoftext|>
+Aesthete n. Person who has or professes a special appreciation of beauty. [greek aisthanomai perceive] Aesthete n. Person who has or professes a special appreciation of beauty. [greek aisthanomai perceive]
+<|endoftext|>
+Aesthetic —adj. 1 of or sensitive to beauty. 2 artistic, tasteful. —n. (in pl.) Philosophy of beauty, esp. In art. aesthetically adv. Aestheticism n.
+<|endoftext|>
+Aetiology n. (us etiology) study of causation or of the causes of disease. aetiological adj. [greek aitia cause]
+<|endoftext|>
+Af abbr. Audio frequency.
+<|endoftext|>
+Afar adv. At or to a distance.
+<|endoftext|>
+Affable adj. 1 friendly. 2 courteous. affability n. Affably adv. [latin affabilis]
+<|endoftext|>
+Affair n. 1 matter, concern, or thing to be attended to (that is my affair). 2 a celebrated or notorious happening. B colloq. Thing or event (puzzling affair). 3 = *love affair. 4 (in pl.) Public or private business. [french à faire to do]
+<|endoftext|>
+Affect v. 1 a produce an effect on. B (of disease etc.) Attack. 2 move emotionally. 3 pretend (affected ignorance). 4 pose as or use for effect (affects the aesthete; affects fancy hats). affecting adj. Affectingly adv. [latin afficio affect- influence]
+<|endoftext|>
+Usage affect should not be confused with effect, meaning ‘to bring about’. Note also that effect is used as a noun as well as a verb.
+<|endoftext|>
+Affectation n. 1 artificial manner. 2 (foll. By of) studied display. 3 pretence.
+<|endoftext|>
+Affected adj. 1 pretended, artificial. 2 full of affectation.
+<|endoftext|>
+Affection n. 1 goodwill, fond feeling. 2 disease; diseased condition.
+<|endoftext|>
+Affectionate adj. Loving, fond. affectionately adv.
+<|endoftext|>
+Affidavit n. Written statement confirmed by oath. [latin, = has stated on oath]
+<|endoftext|>
+Affiliate —v. (-ting) (foll. By to, with) attach, adopt, or connect as a member or branch. —n. Affiliated person etc. [latin: related to *filial]
+<|endoftext|>
+Affiliation n. Affiliating or being affiliated.
+<|endoftext|>
+Affiliation order n. Legal order against the supposed father of an illegitimate child for support.
+<|endoftext|>
+Affinity n. (pl. -ies) 1 liking or attraction; feeling of kinship. 2 relationship, esp. By marriage. 3 similarity of structure or character suggesting a relationship. 4 chem. The tendency of certain substances to combine with others. [latin finis border]
+<|endoftext|>
+Affirm v. 1 assert, state as a fact. 2 law make a solemn declaration in place of an oath. affirmation n. [latin: related to *firm1]
+<|endoftext|>
+Affirmative —adj. Affirming; expressing approval. —n. Affirmative statement or word etc.
+<|endoftext|>
+Affix —v. 1 attach, fasten. 2 add in writing. —n. 1 addition. 2 gram. Prefix or suffix. [latin: related to *fix]
+<|endoftext|>
+Afflict v. Distress physically or mentally. [latin fligo flict- strike down]
+<|endoftext|>
+Affliction n. 1 distress, suffering. 2 cause of this.
+<|endoftext|>
+Affluent adj. Wealthy, rich. affluence n. [latin: related to *fluent]
+<|endoftext|>
+Afford v. 1 (prec. By can or be able to) a have enough money, time, etc., for; be able to spare. B be in a position (can't afford to be critical). 2 provide (affords a view of the sea). [old english ge- prefix implying completeness, *forth]
+<|endoftext|>
+Afforest v. 1 convert into forest. 2 plant with trees. afforestation n. [latin: related to *forest]
+<|endoftext|>
+Affray n. Breach of the peace by fighting or rioting in public. [anglo-french = ‘remove from peace’]
+<|endoftext|>
+Affront —n. Open insult. —v. Insult openly; offend, embarrass. [latin: related to *front]
+<|endoftext|>
+Afghan —n. 1 a native or national of afghanistan. B person of afghan descent. 2 official language of afghanistan. —adj. Of afghanistan. [pashto]
+<|endoftext|>
+Afghan hound n. Tall hunting dog with long silky hair.
+<|endoftext|>
+Aficionado n. (pl. -s) devotee of a sport or pastime. [spanish]
+<|endoftext|>
+Afield adv. To or at a distance (esp. Far afield). [old english: related to *a2]
+<|endoftext|>
+Aflame adv. & predic.adj. 1 in flames. 2 very excited.
+<|endoftext|>
+Afloat adv. & predic.adj. 1 floating. 2 at sea. 3 out of debt or difficulty. 4 current. [old english: related to *a2]
+<|endoftext|>
+Afoot adv. & predic.adj. In operation; progressing.
+<|endoftext|>
+Afore prep. & adv. Archaic before; previously; in front (of). [old english: related to *a2]
+<|endoftext|>
+Afore- comb. Form before, previously (aforementioned; aforesaid). Afore prep. & adv. Archaic before; previously; in front (of). [old english: related to *a2]
+<|endoftext|>
+Afore- comb. Form before, previously (aforementioned; aforesaid).
+<|endoftext|>
+Aforethought adj. Premeditated (following a noun: malice aforethought).
+<|endoftext|>
+Afraid predic. Adj. Alarmed, frightened. be afraid colloq. Politely regret (i'm afraid we're late). [originally past part. Of *affray]
+<|endoftext|>
+Afresh adv. Anew; with a fresh beginning. [earlier of fresh]
+<|endoftext|>
+African —n. 1 native (esp. Dark-skinned) of africa. 2 person of african descent. —adj. Of africa. [latin]
+<|endoftext|>
+African elephant n. The elephant of africa, larger than that of india.
+<|endoftext|>
+African violet n. House-plant with velvety leaves and blue, purple, or pink flowers.
+<|endoftext|>
+Afrikaans n. Language derived from dutch, used in s. Africa. [dutch, = ‘african’]
+<|endoftext|>
+Afrikaner n. Afrikaans-speaking white person in s. Africa, esp. Of dutch descent.
+<|endoftext|>
+Afro —adj. (of hair) tightly-curled and bushy. —n. (pl. -s) afro hairstyle.
+<|endoftext|>
+Afro- comb. Form african.
+<|endoftext|>
+Afro-american —adj. Of american blacks or their culture. —n. American black.
+<|endoftext|>
+Afro-caribbean —n. Caribbean person of african descent. —adj. Of afro-caribbeans.
+<|endoftext|>
+Aft adv. Naut. & aeron. At or towards the stern or tail. [earlier baft]
+<|endoftext|>
+After —prep. 1 following in time; later than (after a week). 2 in view of, in spite of (after what you did what do you expect?; after all my efforts i still lost). 3 behind (shut the door after you). 4 in pursuit or quest of (run after them). 5 about, concerning (asked after her). 6 in allusion to (named after the prince). 7 in imitation of (a painting after rubens). 8 next in importance to (best one after mine). —conj. Later than (left after they arrived). —adv. 1 later (soon after). 2 behind (followed on after). —adj. 1 later, following (in after years). 2 naut. Nearer the stern (after cabins). after all in spite of everything (after all, what does it matter?). After one's own heart to one's taste. [old english]
+<|endoftext|>
+Afterbirth n. Placenta etc. Discharged from the womb after childbirth.
+<|endoftext|>
+After-care n. Attention after leaving hospital etc.
+<|endoftext|>
+After-effect n. Delayed effect following an accident, trauma, etc.
+<|endoftext|>
+Afterglow n. Glow remaining after its source has disappeared.
+<|endoftext|>
+Afterlife n. Life after death.
+<|endoftext|>
+Aftermath n. 1 consequences, esp. Unpleasant (aftermath of war). 2 new grass growing after mowing. [from *after, math mowing]
+<|endoftext|>
+Afternoon n. Time from noon or lunch-time to evening.
+<|endoftext|>
+Afterpains n.pl. Pains caused by contraction of the womb after childbirth.
+<|endoftext|>
+Afters n.pl. Colloq. = *dessert 1.
+<|endoftext|>
+Aftershave n. Lotion used after shaving.
+<|endoftext|>
+Aftertaste n. Taste after eating or drinking.
+<|endoftext|>
+Afterthought n. Thing thought of or added later.
+<|endoftext|>
+Afterward adv. (brit. Afterwards) later, subsequently. [old english: related to *after, *-ward]
+<|endoftext|>
+Afterwards adv. (us afterward) later, subsequently. [old english: related to *after, *-ward]
+<|endoftext|>
+Ag symb. Silver. [latin argentum]
+<|endoftext|>
+Again adv. 1 another time; once more. 2 as previously (home again; well again). 3 in addition (as much again). 4 further, besides (again, what about you?). 5 on the other hand (i might, and again i might not). again and again repeatedly. [old english]
+<|endoftext|>
+Against prep. 1 in opposition to (fight against crime). 2 into collision or in contact with (lean against the wall). 3 to the disadvantage of (my age is against me). 4 in contrast to (against a dark background). 5 in anticipation of (against his coming; against the cold). 6 as a compensating factor to (income against expenditure). 7 in return for (issued against payment of the fee). against the grain see *grain. Against time see *time. [from *again, with inflectional -s]
+<|endoftext|>
+Agape predic. Adj. Gaping, open-mouthed. [from *a2]
+<|endoftext|>
+Agaric n. Fungus with a cap and stalk, e.g. The common mushroom. [greek agarikon]
+<|endoftext|>
+Agate n. Hard usu. Streaked chalcedony. [greek akhates] Agate n. Hard usu. Streaked chalcedony. [greek akhates]
+<|endoftext|>
+Agave n. Plant with rosettes of narrow spiny leaves and flowers on tall stem. [agave, name of a woman in greek mythology]
+<|endoftext|>
+Age —n. 1 length of time that a person or thing has existed. 2 a colloq. (often in pl.) A long time (waited for ages). B distinct historical period (bronze age). 3 old age. —v. (ageing) 1 show or cause to show signs of advancing age. 2 grow old. 3 mature. come of age reach adult status (esp. Law at 18, formerly 21). [latin aetas]
+<|endoftext|>
+-age suffix forming nouns denoting: 1 action (breakage). 2 condition (bondage). 3 aggregate or number (coverage; acreage). 4 cost (postage). 5 result (wreckage). 6 place or abode (anchorage; orphanage). [latin -aticus]
+<|endoftext|>
+Aged adj. 1 (predic.) Of the age of (aged 3). 2 old.
+<|endoftext|>
+Ageism n. Prejudice or discrimination on grounds of age. ageist adj. & n.
+<|endoftext|>
+Ageless adj. 1 never growing or appearing old. 2 eternal.
+<|endoftext|>
+Agelong adj. Existing for a very long time.
+<|endoftext|>
+Agency n. (pl. -ies) 1 business or premises of an agent. 2 action; intervention (free agency; by the agency of god). [latin: related to *act]
+<|endoftext|>
+Agenda n. (pl. -s) 1 list of items to be considered at a meeting. 2 things to be done.
+<|endoftext|>
+Agent n. 1 a person who acts for another in business etc. B spy. 2 person or thing that exerts power or produces an effect.
+<|endoftext|>
+Agent provocateur n. (pl. Agents provocateurs pronunc. Same) person used to tempt suspected offenders to self-incriminating action. [french, = provocative agent]
+<|endoftext|>
+Age of consent n. Age at which consent to sexual intercourse is valid in law.
+<|endoftext|>
+Age-old adj. Very long-standing.
+<|endoftext|>
+Agglomerate —v. (-ting) collect into a mass. —n. Mass, esp. Of fused volcanic fragments. —adj. Collected into a mass. agglomeration n. [latin glomus -meris ball]
+<|endoftext|>
+Agglutinate v. (-ting) stick as with glue. agglutination n. Agglutinative adj. [latin: related to *gluten]
+<|endoftext|>
+Aggrandize v. (also -ise) (-zing or -sing) 1 increase the power, rank or wealth of. 2 make seem greater. aggrandizement n. [french: related to *grand]
+<|endoftext|>
+Aggravate v. (-ting) 1 make worse or more serious. 2 annoy. aggravation n. [latin gravis heavy]
+<|endoftext|>
+Usage the use of aggravate in sense 2 is regarded by some people as incorrect, but it is common in informal use.
+<|endoftext|>
+Aggregate —n. 1 sum total, amount assembled. 2 crushed stone etc. Used in making concrete. 3 rock formed of a mass of different particles or minerals. —adj. Combined, collective, total. —v. (-ting) 1 collect, combine into one mass. 2 colloq. Amount to. 3 unite. in the aggregate as a whole. aggregation n. Aggregative adj. [latin grex greg- flock]
+<|endoftext|>
+Aggression n. 1 unprovoked attacking or attack. 2 hostile or destructive behaviour. [latin gradior gress- walk]
+<|endoftext|>
+Aggressive adj. 1 given to aggression; hostile. 2 forceful, self-assertive. aggressively adv.
+<|endoftext|>
+Aggressor n. Person or party that attacks without provocation.
+<|endoftext|>
+Aggrieved adj. Having a grievance. [french: related to *grief]
+<|endoftext|>
+Aggro n. Slang 1 aggressive hostility. 2 trouble, difficulty. [abbreviation of aggravation or aggression]
+<|endoftext|>
+Aghast predic. Adj. Filled with dismay or consternation. [past part. Of obsolete (a)gast frighten]
+<|endoftext|>
+Agile adj. Quick-moving, nimble, active. agility n. [latin agilis: related to *act]
+<|endoftext|>
+Agitate v. (-ting) 1 disturb or excite (a person or feelings). 2 (often foll. By for, against) campaign, esp. Politically (agitated for tax reform). 3 shake briskly. agitation n. Agitator n. [latin agito: related to *act]
+<|endoftext|>
+Aglow predic. Adj. Glowing.
+<|endoftext|>
+Agm abbr. Annual general meeting.
+<|endoftext|>
+Agnail n. Piece of torn skin at the root of a fingernail; resulting soreness. [old english, = tight (metal) nail, hard excrescence in flesh]
+<|endoftext|>
+Agnostic —n. Person who believes that the existence of god is not provable. —adj. Of agnosticism. agnosticism n. [from *a-, *gnostic]
 <|endoftext|>
