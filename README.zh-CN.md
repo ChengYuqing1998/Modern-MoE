@@ -159,8 +159,8 @@ DPO checkpoint 恢复，reference 始终保持最初的 SFT 权重不变。
 
 ## 预训练性能参考
 
-在单张 NVIDIA RTX 4090、501.7M 参数 packed-Liger 模型、BF16、固定
-`2 × 2048` 训练 microbatch 条件下，已有记录显示：
+在单张 NVIDIA RTX 4090、CUDA 13.0、501.7M 参数 packed-Liger 模型、BF16、
+固定 `2 × 2048` 训练 microbatch 条件下，已有记录显示：
 
 - 优化后的预训练路径约为 **51.5 ms / microbatch**；
 - 单独的 CCE forward/backward CUDA Graph benchmark 的 reserved 显存约为

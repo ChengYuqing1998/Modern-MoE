@@ -111,8 +111,8 @@ the reference remains fixed at the original SFT weights.
 
 ### Reference training performance
 
-Recorded on a single NVIDIA RTX 4090 with the 501.7M-parameter packed-Liger
-model, BF16, and a fixed `2 × 2048` training microbatch:
+Recorded on a single NVIDIA RTX 4090 with CUDA 13.0, the 501.7M-parameter
+packed-Liger model, BF16, and a fixed `2 × 2048` training microbatch:
 
 - the optimized pretraining path is approximately **51.5 ms per microbatch**;
 - the isolated CCE forward/backward CUDA-graph benchmark reported about
