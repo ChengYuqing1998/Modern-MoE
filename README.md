@@ -191,8 +191,37 @@ Inference options:
 - optional backend flags: `--cuda-graph-decode`, `--vllm-fused-experts`,
   `--fused-inference-router`, `--fused-sampling`, and `--flashinfer-sampling`.
 
-The public inference path is `cache` or `no_cache`. MTP-related inference
-settings are intentionally omitted from this README.
+Recommended accelerated inference command (single GPU, cache mode):
+
+```bash
+python -u -m scripts.generate \
+  --checkpoint /path/to/checkpoint.pt \
+  --prompt "Please explain how a mixture-of-experts model works" \
+  --chat-template \
+  --mode cache \
+  --max-new-tokens 256 \
+  --temperature 0.7 \
+  --top-k 50 \
+  --top-p 0.9 \
+  --repetition-penalty 1.1 \
+  --no-repeat-ngram-size 4 \
+  --cuda-graph-decode \
+  --vllm-fused-experts \
+  --fused-inference-router \
+  --flashinfer-sampling \
+  --stream
+```
+
+This is the recorded fast-path combination: inference fast path, selected
+experts, vLLM-style fused expert GEMMs, fused router, model-only CUDA Graph,
+and FlashInfer sampling. `--fused-sampling` is an alternative sampling path;
+use it instead of `--flashinfer-sampling`, not together with it. Remove
+`--chat-template` when raw continuation rather than ChatML dialogue is wanted.
+
+After the CUDA Graph and fused-kernel paths have been warmed up and deployed,
+the current RTX 4090/CUDA 13.0 setup can reach approximately **720 generated
+tokens/s** in steady-state decode. The first request may be slower because it
+includes graph and kernel setup.
 
 ### Checkpoint policy
 

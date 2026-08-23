@@ -281,8 +281,36 @@ python -u -m scripts.generate \
 - 可选性能开关：`--cuda-graph-decode`、`--vllm-fused-experts`、
   `--fused-inference-router`、`--fused-sampling`、`--flashinfer-sampling`。
 
-公开 README 只保留 `cache` 和 `no_cache` 两条推理路径说明，MTP 相关推理
-设置不在这里展开。
+推荐的单卡加速推理命令：
+
+```bash
+python -u -m scripts.generate \
+  --checkpoint /path/to/checkpoint.pt \
+  --prompt "请解释混合专家模型的工作原理" \
+  --chat-template \
+  --mode cache \
+  --max-new-tokens 256 \
+  --temperature 0.7 \
+  --top-k 50 \
+  --top-p 0.9 \
+  --repetition-penalty 1.1 \
+  --no-repeat-ngram-size 4 \
+  --cuda-graph-decode \
+  --vllm-fused-experts \
+  --fused-inference-router \
+  --flashinfer-sampling \
+  --stream
+```
+
+这是 runbook 中记录的推荐加速组合：推理专用 fast path、selected experts、
+vLLM 风格 fused expert GEMM、fused router、model-only CUDA Graph 和
+FlashInfer sampling。`--fused-sampling` 是另一条采样路径，应与
+`--flashinfer-sampling` 二选一，不要同时开启。需要原始续写而不是 ChatML
+对话时，可以去掉 `--chat-template`。
+
+完成 CUDA Graph、fused kernel 和采样路径的预热部署后，当前 RTX 4090/CUDA
+13.0 环境在稳定 decode 阶段可以达到约 **720 tokens/s**。第一次请求可能更慢，
+因为包含 CUDA Graph 和 kernel 的初始化开销。
 
 ## Checkpoint 管理
 

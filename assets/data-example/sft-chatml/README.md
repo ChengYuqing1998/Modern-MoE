@@ -76,8 +76,33 @@ Performance-related optional flags are `--cuda-graph-decode`,
 `--flashinfer-sampling`. These are environment- and backend-dependent; use
 them only after the ordinary `cache` path is working.
 
-This example documents only the ordinary `cache` and `no_cache` paths; MTP
-settings are intentionally omitted.
+For the recommended accelerated single-GPU path, use:
+
+```bash
+python -u -m scripts.generate \
+  --checkpoint /path/to/checkpoint.pt \
+  --prompt "请解释混合专家模型的工作原理" \
+  --chat-template \
+  --mode cache \
+  --max-new-tokens 256 \
+  --temperature 0.7 \
+  --top-k 50 \
+  --top-p 0.9 \
+  --repetition-penalty 1.1 \
+  --no-repeat-ngram-size 4 \
+  --cuda-graph-decode \
+  --vllm-fused-experts \
+  --fused-inference-router \
+  --flashinfer-sampling \
+  --stream
+```
+
+Use `--fused-sampling` instead of `--flashinfer-sampling` if the custom fused
+sampling path is the one being tested; do not enable both at once.
+
+After warm-up deployment, the current RTX 4090/CUDA 13.0 setup can reach about
+720 generated tokens/s in steady-state decode. The first request includes
+one-time graph and kernel setup overhead.
 
 The current command-line interface does not expose a separate
 `--enable-thinking/--disable-thinking` switch. With `--chat-template`, the
