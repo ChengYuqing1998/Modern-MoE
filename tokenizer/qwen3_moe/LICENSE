@@ -1,0 +1,6 @@
+The tokenizer files in this directory are redistributed under the Apache
+License, Version 2.0. The complete license text is provided at the repository
+root in LICENSE.
+
+These files are based on the Qwen3 tokenizer released by Alibaba Cloud / Qwen.
+See tokenizer/qwen3_moe/NOTICE for attribution information.

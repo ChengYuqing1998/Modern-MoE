@@ -1,0 +1,25 @@
+# Public example. The preference dataset and checkpoint are external.
+checkpoint: /path/to/sft_checkpoint.pt
+dataset: <external-preference-dataset>
+split: train
+checkpoint_root: /path/to/checkpoints
+
+max_samples: 0
+max_length: 1024
+epochs: 1
+micro_batch_size: 4
+gradient_accumulation_steps: 8
+
+beta: 0.1
+label_smoothing: 0.0
+lr: 1.0e-4
+router_lr: 2.0e-5
+weight_decay: 0.1
+max_grad_norm: 1.0
+warmup_steps: 0
+
+log_every_steps: 1
+save_every_steps: 20
+max_checkpoints: 4
+wandb_project: null
+run_name: modern-moe-dpo

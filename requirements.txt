@@ -1,0 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cu130
+torch==2.9.1+cu130
+numpy>=1.26,<2
+PyYAML>=6.0
+datasets>=3.6,<4
+transformers>=4.51,<6
+wandb>=0.18,<1
+fla-core>=0.5,<0.6
+cut-cross-entropy @ git+https://github.com/apple/ml-cross-entropy.git
+scattermoe==0.3.0

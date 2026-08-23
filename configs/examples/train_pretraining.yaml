@@ -1,0 +1,30 @@
+# Public example. Replace all external paths before running.
+model_config: configs/nanogptmoe_v2_500m_liger.yaml
+data_dir: /path/to/tokenized_pretraining_data
+dataset_format: pretraining
+checkpoint_root: /path/to/checkpoints
+resume_training: false
+
+sequence_length: 2048
+epochs: 1
+micro_batch_size: 2
+gradient_accumulation_steps: 12
+num_workers: 2
+
+learning_rate: 1.0e-3
+lr_schedule: cosine
+warmup_steps: 100
+min_learning_rate: 1.0e-6
+weight_decay: 0.1
+betas: [0.9, 0.95]
+adam_epsilon: 1.0e-8
+max_grad_norm: 1.0
+
+log_every_steps: 10
+eval_every_steps: 500
+eval_batches: 20
+save_every_steps: 500
+max_checkpoints: 4
+
+wandb_project: null
+wandb_entity: null

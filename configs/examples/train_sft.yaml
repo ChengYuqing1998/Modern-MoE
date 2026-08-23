@@ -1,0 +1,33 @@
+# Public example. The SFT binaries must be prepared outside this repository.
+model_config: configs/nanogptmoe_v2_500m_liger.yaml
+data_dir: /path/to/tokenized_sft_data
+dataset_format: sft
+training_entrypoint: scripts/train_sft.py
+checkpoint_root: /path/to/checkpoints
+resume_training: false
+init_checkpoint: /path/to/base_checkpoint.pt
+
+sequence_length: 2048
+epochs: 1
+micro_batch_size: 2
+gradient_accumulation_steps: 12
+num_workers: 2
+
+learning_rate: 1.0e-4
+router_learning_rate_scale: 0.2
+lr_schedule: cosine
+warmup_steps: 100
+min_learning_rate: 1.0e-6
+weight_decay: 0.1
+betas: [0.9, 0.95]
+adam_epsilon: 1.0e-8
+max_grad_norm: 1.0
+
+log_every_steps: 10
+eval_every_steps: 100
+eval_batches: 20
+save_every_steps: 250
+max_checkpoints: 4
+
+wandb_project: null
+wandb_entity: null

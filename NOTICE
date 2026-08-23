@@ -1,0 +1,7 @@
+Modern-MoE
+Copyright 2026 Yuqing Cheng
+
+The tokenizer files under tokenizer/qwen3_moe/ are based on the Qwen3
+tokenizer released by Alibaba Cloud / Qwen. Those files are redistributed
+under the Apache License 2.0 and remain subject to the applicable upstream
+copyright and attribution notices.
