@@ -34,16 +34,43 @@ class PackedTokenDataset(Dataset[tuple[torch.Tensor, torch.Tensor]]):
             raise FileNotFoundError(self.sample_index_path)
 
         self.tokens = np.memmap(self.bin_path, mode="r", dtype=np.dtype(dtype))
-        self.sample_starts = np.load(self.sample_index_path, mmap_mode="r")
+        try:
+            self.sample_starts = np.load(
+                self.sample_index_path,
+                mmap_mode="r",
+                allow_pickle=False,
+            )
+        except ValueError as error:
+            raise ValueError(
+                f"Could not load sample index {self.sample_index_path}; expected "
+                "a one-dimensional .npy array with an integer dtype."
+            ) from error
 
         if self.sample_starts.ndim != 1:
             raise ValueError("sample index must be a one-dimensional array")
+        if not np.issubdtype(self.sample_starts.dtype, np.integer):
+            raise ValueError(
+                f"sample index must have an integer dtype, but "
+                f"{self.sample_index_path} has dtype {self.sample_starts.dtype}"
+            )
         if len(self.sample_starts):
-            final_end = int(np.max(self.sample_starts)) + self.sequence_length + 1
-            if final_end > len(self.tokens):
+            if np.issubdtype(self.sample_starts.dtype, np.signedinteger):
+                minimum_start = int(np.min(self.sample_starts))
+                if minimum_start < 0:
+                    raise ValueError(
+                        "sample index offsets must be non-negative, but "
+                        f"{self.sample_index_path} contains {minimum_start}"
+                    )
+
+            maximum_start = int(np.max(self.sample_starts))
+            sample_size = self.sequence_length + 1
+            maximum_valid_start = len(self.tokens) - sample_size
+            if maximum_start > maximum_valid_start:
                 raise ValueError(
-                    f"Last sample ends at token {final_end}, but the bin file "
-                    f"contains only {len(self.tokens)} tokens."
+                    f"sample index offset {maximum_start} is out of range: each "
+                    f"sample needs {sample_size} tokens, but {self.bin_path} "
+                    f"contains {len(self.tokens)}. The largest valid offset is "
+                    f"{maximum_valid_start}."
                 )
 
     def __len__(self) -> int:
