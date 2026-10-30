@@ -96,6 +96,10 @@ python -u -m scripts.tokenize_corpus \
 命令会生成 `train.bin`、`validation.bin`、对应的 `*.sample_idx.npy` 和
 `metadata.json`。生成的 tokenized 文件属于本地产物，不会提交到仓库。
 
+每个 split 的 metadata 使用与上下文长度无关的 `samples` 字段记录样本数。
+上下文长度为 2048 时还会保留 `samples_2048` 作为兼容旧版的别名；新调用方应结合
+顶层 `context_length` 读取 `samples`。
+
 `.bin` 保存 packed token IDs，`*.sample_idx.npy` 保存固定长度样本的起始位置。长度为 `T` 时：
 
 ```text
