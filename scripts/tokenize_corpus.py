@@ -9,9 +9,6 @@ from typing import Iterable, Iterator, List
 
 import numpy as np
 import yaml
-from transformers import AutoTokenizer
-
-from modern_moe import ModernMoEConfig
 
 
 EOD_TEXT = "<|endoftext|>"
@@ -91,21 +88,22 @@ def tokenize_split(
                 max_token = current_max if max_token is None else max(max_token, current_max)
 
     np.asarray(offsets, dtype=INDEX_DTYPE).tofile(idx_path)
-    # Each causal sample consumes 2049 tokens: 2048 inputs and their shifted labels.
+    # Each sample reads context_length inputs and one additional token for shifted
+    # labels.
     sample_count = max(0, (token_count - 1) // context_length)
     sample_offsets = np.arange(sample_count, dtype=np.uint64) * context_length
     if split == "train":
         np.random.default_rng(shuffle_seed).shuffle(sample_offsets)
     np.save(sample_path, sample_offsets, allow_pickle=False)
 
-    return {
+    metadata = {
         "input": str(input_path),
         "bin": str(bin_path),
         "idx": str(idx_path),
         "sample_idx": str(sample_path),
         "documents": document_count,
         "tokens": token_count,
-        "samples_2048": sample_count,
+        "samples": sample_count,
         "dropped_tail_tokens": max(0, token_count - (sample_count * context_length + 1)),
         "min_token_id": min_token,
         "max_token_id": max_token,
@@ -115,9 +113,17 @@ def tokenize_split(
         "idx_sha256": sha256(idx_path),
         "sample_idx_sha256": sha256(sample_path),
     }
+    # Keep the original field for consumers of metadata produced with the default context.
+    if context_length == 2048:
+        metadata["samples_2048"] = sample_count
+    return metadata
 
 
 def main() -> None:
+    from transformers import AutoTokenizer
+
+    from modern_moe import ModernMoEConfig
+
     parser = argparse.ArgumentParser()
     parser.add_argument(
         "--input-dir",

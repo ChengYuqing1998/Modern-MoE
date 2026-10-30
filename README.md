@@ -73,6 +73,10 @@ The command creates `train.bin`, `validation.bin`, the corresponding
 `*.sample_idx.npy` files, and metadata in the output directory. The generated
 tokenized files are local artifacts and are not committed.
 
+Each split's metadata records its sample count in the context-neutral `samples`
+field. At context length 2048, it also includes `samples_2048` as a legacy alias;
+new consumers should use `samples` together with the top-level `context_length`.
+
 SFT requires:
 
 ```text
